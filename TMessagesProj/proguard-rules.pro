@@ -63,6 +63,13 @@
 -keep class com.exteragram.messenger.adblock.interop.** { *; }
 -keep class com.exteragram.messenger.adblock.data.** { *; }
 
+# libXray (gobind): classes are resolved from native code and JSON reflection.
+-keep class go.** { *; }
+-keep class libXray.** { *; }
+-keep class com.exteragram.messenger.xray.** { *; }
+-dontwarn libXray.**
+-dontwarn go.**
+
 -keep,allowobfuscation,allowshrinking interface retrofit2.Call
 -keep,allowobfuscation,allowshrinking class retrofit2.Response
 -keep,allowobfuscation,allowshrinking class kotlin.coroutines.Continuation

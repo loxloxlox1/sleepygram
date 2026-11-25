@@ -12,8 +12,8 @@
 -->
 
 <resources>
-    <string name="exteraAppName" translatable="false">exteraGram</string>
-    <string name="Preferences">Настройки exteraGram</string>
+    <string name="exteraAppName" translatable="false">sleepygram</string>
+    <string name="Preferences">Настройки sleepygram</string>
 
     <!-- Главное меню -->
     <string name="Links">Ссылки</string>
@@ -21,10 +21,10 @@
     <string name="Website">Веб-сайт</string>
     <string name="SourceCode">Исходный код</string>
     <string name="Categories">Категории</string>
-    <string name="Developer">**%1$s** является членом команды разработчиков **exteraGram**.</string>
-    <string name="DeveloperCompact">Участник команды разработчиков **exteraGram**.</string>
-    <string name="Supporter">**%1$s** поддержал(а) разработку **exteraGram** и получил(а) уникальный значок.</string>
-    <string name="OfficialChannel">**%1$s** является официальным ресурсом **exteraGram**.</string>
+    <string name="Developer">**%1$s** является членом команды разработчиков **sleepygram**.</string>
+    <string name="DeveloperCompact">Участник команды разработчиков **sleepygram**.</string>
+    <string name="Supporter">**%1$s** поддержал(а) разработку **sleepygram** и получил(а) уникальный значок.</string>
+    <string name="OfficialChannel">**%1$s** является официальным ресурсом **sleepygram**.</string>
     <string name="NoSuchSetting">Похоже, что такой настройки пока нет.</string>
     <string name="SettingLinkToSavedMessages">Ссылка на настройку отправлена в **Избранное**.</string>
     <string name="SettingLinkToUser">Ссылка на настройку отправлена **%1$s**.</string>
@@ -45,7 +45,7 @@
     <string name="WeatherPill">Погода</string>
     <string name="WeatherSettingsInfo">Выберите способ определения местоположения для получения данных о погоде.</string>
     <string name="WeatherLocation">Определение местоположения</string>
-    <string name="WeatherLocationPermissionNo">Для отображения погоды exteraGram требуется доступ к вашей геопозиции.</string>
+    <string name="WeatherLocationPermissionNo">Для отображения погоды sleepygram требуется доступ к вашей геопозиции.</string>
     <string name="WeatherLocationPermissionGrant">Предоставить доступ</string>
     <string name="WeatherLocationServicesEnable">Включить геолокацию</string>
     <string name="WeatherPillTopInfo">Настройки виджета погоды для Pill Stack.</string>
@@ -601,7 +601,7 @@
     <string name="UnmuteWithVolumeButtonsInfo">Нажатие кнопки громкости будет включать звук в видео вместо изменения системной громкости.</string>
 
     <!-- Плагины -->
-    <string name="PluginsNotSupported">Установка плагинов доступна только в **Full**-версии **exteraGram**.</string>
+    <string name="PluginsNotSupported">Установка плагинов доступна только в **Full**-версии **sleepygram**.</string>
     <string name="Plugins">Плагины</string>
     <string name="PluginsEngine">Система плагинов</string>
     <string name="EnablePluginsEngine">Включить систему плагинов</string>
@@ -623,7 +623,7 @@
     <string name="PluginCatalogGitRepository">Git-репозиторий</string>
     <string name="PluginCatalogGitLinkHint">github.com/user/repo</string>
     <string name="PluginCatalogGitLoadFailed">Не удалось загрузить репозиторий. Проверьте ссылку и попробуйте ещё раз.</string>
-    <string name="PluginCatalogGitUnsupported">Для этого репозитория нужна более новая версия exteraGram.</string>
+    <string name="PluginCatalogGitUnsupported">Для этого репозитория нужна более новая версия sleepygram.</string>
     <string name="PluginCatalogOpenRepository">Открыть репозиторий</string>
     <string name="PluginCatalogRepositoryAdded">**%1$s** добавлен в репозитории.</string>
     <string name="PluginCatalogRepositoryRemoved">**%1$s** удалён из репозиториев.</string>
@@ -960,8 +960,8 @@
     <string name="AnalyticsInfo">Когда эти опции включены, данные об устройстве собираются и отправляются в Google Analytics и Crashlytics, что позволяет нам вести статистику использования и отслеживать ошибки в приложении. \n\nОднако если опции выключены, сбор данных прекращается, а отправленные данные мгновенно удаляются.</string>
     <string name="DeleteAccount">Удалить аккаунт</string>
     <string name="ResetSettings">Сбросить настройки</string>
-    <string name="ResetPreferences">Настройки **exteraGram** были сброшены.</string>
-    <string name="ResetPreferencesInfo">Вы уверены, что хотите сбросить **все** настройки exteraGram до стандартных?</string>
+    <string name="ResetPreferences">Настройки **sleepygram** были сброшены.</string>
+    <string name="ResetPreferencesInfo">Вы уверены, что хотите сбросить **все** настройки sleepygram до стандартных?</string>
 
     <!-- Вход и QR -->
     <string name="LoginQrTitle">Вход по QR-коду</string>
@@ -974,7 +974,7 @@
 
     <!-- Блокировщик рекламы -->
     <string name="PageBlocked">Страница заблокирована</string>
-    <string name="PageBlockedDescription">exteraGram предотвратил загрузку следующей страницы:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram предотвратил загрузку следующей страницы:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Назад</string>
     <string name="BlockAds">Блокировка рекламы</string>
     <string name="BlockedRequests_one">%1$d заблокировано</string>
@@ -1106,7 +1106,7 @@
     <string name="MakeDonation">Сделать пожертвование</string>
     <string name="DonateApp">Карта, СБП или криптовалюта</string>
     <string name="DonateAppInfo">Оплатите %1$s картой, по СБП или криптовалютой.</string>
-    <string name="SupportBannerTitle">Поддержите exteraGram</string>
+    <string name="SupportBannerTitle">Поддержите sleepygram</string>
     <string name="SupportBannerInfo">Получите номерной значок и другие бонусы.</string>
     <string name="SupportBannerButton">Поддержать</string>
     <string name="SupportBannerBadge">Ваш значок — %1$s.</string>
@@ -1123,11 +1123,11 @@
     <string name="SupporterBadgeReset">Сбросить значок</string>
     <string name="SupporterBadgeName">Стрелка %1$s</string>
     <string name="SupporterBadgeNameCustom">Значок %1$s</string>
-    <string name="SupporterOtherTitle">**%1$s** поддерживает exteraGram</string>
+    <string name="SupporterOtherTitle">**%1$s** поддерживает sleepygram</string>
     <string name="SupporterOtherSubtitle">Поддержавшие получают:</string>
     <string name="SupporterHowToGet">Как получить</string>
     <string name="SupporterPerkBadge">Номерной значок</string>
-    <string name="SupporterPerkBadgeInfo">Значок с вашим номером рядом с именем, его видят все в exteraGram.</string>
+    <string name="SupporterPerkBadgeInfo">Значок с вашим номером рядом с именем, его видят все в sleepygram.</string>
     <string name="SupporterPerkNowPlaying">Сейчас играет</string>
     <string name="SupporterPerkNowPlayingInfo">Показывайте в профиле трек, который играет в Last.fm или stats.fm.</string>
     <string name="SupporterPerkRegDate">Даты регистрации</string>
@@ -1157,7 +1157,7 @@
     <string name="BoostyPeopleCount_few">%1$d человека</string>
     <string name="BoostyPeopleCount_many">%1$d человек</string>
     <string name="BoostyPeopleCount_other">%1$d человек</string>
-    <string name="BoostyInfo">Активно поддерживают **exteraGram** на **Boosty**.</string>
+    <string name="BoostyInfo">Активно поддерживают **sleepygram** на **Boosty**.</string>
     <string name="BoostyInfo2">Спасибо за вашу поддержку!</string>
 
     <!-- Контекстное меню кнопок бота -->
@@ -1180,7 +1180,7 @@
     <string name="EmojiSavedHint">Эмодзи сохранён в галерею.</string>
     <string name="GifGallerySavedHint">GIF сохранена в галерею.</string>
     <string name="MutualContactInfo">Этот контакт является взаимным.</string>
-    <string name="LocalPremiumEmojiHint">У вас нет подписки **Telegram Premium**, поэтому этот эмодзи будут видеть только пользователи **exteraGram**.</string>
+    <string name="LocalPremiumEmojiHint">У вас нет подписки **Telegram Premium**, поэтому этот эмодзи будут видеть только пользователи **sleepygram**.</string>
 
     <!-- Main Tabs -->
     <string name="HideContactsTab">Скрыть вкладку «Контакты»</string>
@@ -1414,4 +1414,43 @@
     <string name="MaximumReactionsGroupValue_many">%d реакций на сообщение</string>
     <string name="MaximumReactionsGroupValue_other">%d реакций на сообщение</string>
     <string name="MaximumReactionsGroupInfo">Ограничьте количество разных реакций, которые можно поставить на сообщение, включая уже отправленные.</string>
+
+    <!-- Xray -->
+    <string name="XraySettings">Xray</string>
+    <string name="XrayConnection">Подключение</string>
+    <string name="XrayEnable">Включить Xray</string>
+    <string name="XrayRunningOnPort">Работает на 127.0.0.1:%1$d</string>
+    <string name="XrayDisabled">Отключено</string>
+    <string name="XrayActiveProfile">Активный профиль</string>
+    <string name="XrayUnnamedProfile">Без названия</string>
+    <string name="XrayConnectionInfo">Весь трафик Telegram будет идти через выбранный профиль Xray. Тоннель слушает только localhost.</string>
+    <string name="XrayProfiles">Профили</string>
+    <string name="XrayProfilesInfo">Ядро Xray %1$s. Импортируйте share-ссылки (vless, vmess, trojan, shadowsocks, hysteria2) или ссылку на подписку.</string>
+    <string name="XrayImportFromClipboard">Импорт из буфера</string>
+    <string name="XrayAddSubscription">Добавить подписку</string>
+    <string name="XrayNoProfiles">Профилей пока нет. Скопируйте share-ссылку или подписку и импортируйте её сюда.</string>
+    <string name="XrayProfileSelected">Выбран</string>
+    <string name="XrayCheckAll">Проверить все</string>
+    <string name="XrayStopped">Xray остановлен</string>
+    <string name="XrayStarting">Запуск Xray…</string>
+    <string name="XrayStarted">Xray запущен</string>
+    <string name="XrayStartFailed">Не удалось запустить: %1$s</string>
+    <string name="XraySelectProfile">Выберите профиль</string>
+    <string name="XrayUseProfile">Использовать</string>
+    <string name="XrayCheck">Проверить соединение</string>
+    <string name="XrayRename">Переименовать</string>
+    <string name="XrayDelete">Удалить</string>
+    <string name="XrayProfileName">Название профиля</string>
+    <string name="XrayDeleteConfirm">Удалить «%1$s»?</string>
+    <string name="XrayChecking">Проверка…</string>
+    <string name="XrayPingResult">%1$d мс</string>
+    <string name="XrayPingFailed">Не удалось подключиться</string>
+    <string name="XrayCheckDone">Проверка завершена</string>
+    <string name="XrayClipboardEmpty">Буфер обмена пуст</string>
+    <string name="XrayImporting">Импорт…</string>
+    <string name="XrayImported">Импортировано профилей: %1$d</string>
+    <string name="XrayImportFailed">Ошибка импорта: %1$s</string>
+    <string name="XrayDownloading">Загрузка подписки…</string>
+    <string name="XraySubscription">Подписка</string>
+    <string name="XrayImport">Импортировано</string>
 </resources>

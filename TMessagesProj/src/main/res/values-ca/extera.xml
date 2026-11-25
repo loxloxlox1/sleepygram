@@ -10,15 +10,15 @@
 
 -->
 <resources>
-    <string name="Preferences">Preferències d\'exteraGram</string>
+    <string name="Preferences">Preferències d\'sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Enllaços</string>
     <string name="Crowdin">Traduir</string>
     <string name="Website">Lloc web</string>
-    <string name="Developer">**%1$s** és membre de l\'equip de desenvolupament d\'**exteraGram**.</string>
-    <string name="DeveloperCompact">Membre de l\'equip de desenvolupament d\'**exteraGram**.</string>
-    <string name="Supporter">**%1$s** ha donat suport al desenvolupament d\'**exteraGram** i ha rebut una insígnia única.</string>
-    <string name="OfficialChannel">**%1$s** és el recurs oficial d\'**exteraGram**.</string>
+    <string name="Developer">**%1$s** és membre de l\'equip de desenvolupament d\'**sleepygram**.</string>
+    <string name="DeveloperCompact">Membre de l\'equip de desenvolupament d\'**sleepygram**.</string>
+    <string name="Supporter">**%1$s** ha donat suport al desenvolupament d\'**sleepygram** i ha rebut una insígnia única.</string>
+    <string name="OfficialChannel">**%1$s** és el recurs oficial d\'**sleepygram**.</string>
     <string name="NoSuchSetting">Sembla que aquesta opció no existeix.</string>
     <string name="SettingLinkToSavedMessages">Enllaç de configuració enviat a **Missatges guardats**.</string>
     <string name="SettingLinkToUser">Enllaç de configuració enviat a **%1$s**.</string>
@@ -36,7 +36,7 @@
     <string name="WeatherPill">Temps</string>
     <string name="WeatherSettingsInfo">Tria com determinar la ubicació per a la visualització del temps a la cerca.</string>
     <string name="WeatherLocation">Detecció d\'ubicació</string>
-    <string name="WeatherLocationPermissionNo">exteraGram necessita accés a la teva ubicació per mostrar el temps actual.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram necessita accés a la teva ubicació per mostrar el temps actual.</string>
     <string name="WeatherLocationPermissionGrant">Concedir permís</string>
     <string name="WeatherLocationServicesEnable">Activa la ubicació</string>
     <string name="WeatherPillTopInfo">Configuració del widget del temps per a la pila de pastilles.</string>
@@ -351,7 +351,7 @@
     <string name="PauseOnMinimizeVideo">Vídeo</string>
     <string name="PauseOnMinimizeVoice">Veu</string>
     <string name="PauseOnMinimizeRound">Rodó</string>
-    <string name="PauseOnMinimizeInfo">Atura la reproducció multimèdia quan el dispositiu es bloqueja o exteraGram es minimitza.</string>
+    <string name="PauseOnMinimizeInfo">Atura la reproducció multimèdia quan el dispositiu es bloqueja o sleepygram es minimitza.</string>
     <string name="SwipeToPip">Llisca per a PiP</string>
     <string name="UnmuteWithVolumeButtons">Activa el so dels vídeos amb els botons de volum</string>
     <string name="UnmuteWithVolumeButtonsInfo">En prémer un botó de volum s\'activarà el so del vídeo en lloc de canviar el volum del sistema.</string>
@@ -379,8 +379,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Elimina el compte</string>
     <string name="ResetSettings">Restableix la configuració</string>
-    <string name="ResetPreferences">Les preferències d\'**exteraGram** s\'han restablert.</string>
-    <string name="ResetPreferencesInfo">Segur que vols restablir **totes** les preferències d\'exteraGram als valors predeterminats?</string>
+    <string name="ResetPreferences">Les preferències d\'**sleepygram** s\'han restablert.</string>
+    <string name="ResetPreferencesInfo">Segur que vols restablir **totes** les preferències d\'sleepygram als valors predeterminats?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Dóna suport al desenvolupament</string>
     <string name="SupportDevelopmentInfo">En donar suport al projecte, no només contribueixes al seu desenvolupament, sinó que també obtens una insígnia única.</string>
@@ -397,10 +397,10 @@
     <string name="BoostyPeopleCount_few">%1$d persones</string>
     <string name="BoostyPeopleCount_many">%1$d persones</string>
     <string name="BoostyPeopleCount_other">%1$d persones</string>
-    <string name="BoostyInfo">Dóna suport activament a **exteraGram** a **Boosty**.</string>
+    <string name="BoostyInfo">Dóna suport activament a **sleepygram** a **Boosty**.</string>
     <string name="BoostyInfo2">Gràcies pel teu suport!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">La instal·lació de complements només està disponible a la versió **Completa** d\'**exteraGram**.</string>
+    <string name="PluginsNotSupported">La instal·lació de complements només està disponible a la versió **Completa** d\'**sleepygram**.</string>
     <string name="Plugins">Complements</string>
     <string name="PluginsEngine">Motor de complements</string>
     <string name="EnablePluginsEngine">Activa el motor de complements</string>
@@ -492,7 +492,7 @@
     <string name="AreYouSureToLogin">Segur que vols iniciar sessió en aquest compte en un altre dispositiu?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Pàgina bloquejada</string>
-    <string name="PageBlockedDescription">exteraGram ha impedit la càrrega de la pàgina següent:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram ha impedit la càrrega de la pàgina següent:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Torna enrere</string>
     <!-- Other -->
     <string name="SetAsBadge">Establir com a insígnia</string>
@@ -521,7 +521,7 @@
     <string name="EmojiSavedHint">Emoji desat a la galeria.</string>
     <string name="GifGallerySavedHint">GIF desat a la galeria.</string>
     <string name="MutualContactInfo">Aquest contacte és mutu.</string>
-    <string name="LocalPremiumEmojiHint">No tens subscripció a **Telegram Premium**, per tant només els usuaris d\'**exteraGram** podran veure aquest emoji.</string>
+    <string name="LocalPremiumEmojiHint">No tens subscripció a **Telegram Premium**, per tant només els usuaris d\'**sleepygram** podran veure aquest emoji.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Amaga la pestanya de contactes</string>
     <string name="ShowContactsTab">Mostra la pestanya de contactes</string>

@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">Nastavenia exteraGram</string>
+    <string name="Preferences">Nastavenia sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Odkazy</string>
     <string name="Crowdin">Preložiť</string>
     <string name="Website">Webová stránka</string>
     <string name="Categories">Kategórie</string>
-    <string name="Developer">**%1$s** je členom vývojového tímu **exteraGram**.</string>
-    <string name="DeveloperCompact">Člen vývojového tímu **exteraGram**.</string>
-    <string name="Supporter">**%1$s** podporil vývoj **exteraGram** a získal exkluzívny odznak.</string>
-    <string name="OfficialChannel">**%1$s** je oficiálny zdroj **exteraGram**.</string>
+    <string name="Developer">**%1$s** je členom vývojového tímu **sleepygram**.</string>
+    <string name="DeveloperCompact">Člen vývojového tímu **sleepygram**.</string>
+    <string name="Supporter">**%1$s** podporil vývoj **sleepygram** a získal exkluzívny odznak.</string>
+    <string name="OfficialChannel">**%1$s** je oficiálny zdroj **sleepygram**.</string>
     <string name="NoSuchSetting">Zdá sa, že takéto nastavenie neexistuje.</string>
     <string name="SettingLinkToSavedMessages">Odkaz nastavenia odoslaný do **Uložené správy**.</string>
     <string name="SettingLinkToUser">Odkaz nastavenia odoslaný používateľovi **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Počasie</string>
     <string name="WeatherSettingsInfo">Vyberte spôsob určenia polohy pre zobrazenie počasia vo vyhľadávaní.</string>
     <string name="WeatherLocation">Detekcia polohy</string>
-    <string name="WeatherLocationPermissionNo">exteraGram potrebuje prístup k vašej polohe na zobrazenie aktuálneho počasia.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram potrebuje prístup k vašej polohe na zobrazenie aktuálneho počasia.</string>
     <string name="WeatherLocationPermissionGrant">Udeliť povolenie</string>
     <string name="WeatherLocationServicesEnable">Povoliť polohu</string>
     <string name="WeatherPillTopInfo">Nastavenia widgetu počasia pre zásobník piluliek.</string>
@@ -352,7 +352,7 @@
     <string name="PauseOnMinimize">Automatická pauza</string>
     <string name="PauseOnMinimizeVoice">Hlas</string>
     <string name="PauseOnMinimizeRound">Kruhové</string>
-    <string name="PauseOnMinimizeInfo">Pozastaví prehrávanie médií, keď je zariadenie uzamknuté alebo je exteraGram minimalizovaný.</string>
+    <string name="PauseOnMinimizeInfo">Pozastaví prehrávanie médií, keď je zariadenie uzamknuté alebo je sleepygram minimalizovaný.</string>
     <string name="SwipeToPip">Potiahnutím do PiP</string>
     <string name="UnmuteWithVolumeButtons">Zrušiť stlmenie videa tlačidlami hlasitosti</string>
     <string name="UnmuteWithVolumeButtonsInfo">Stlačením tlačidla hlasitosti sa video zruší stlmenie namiesto zmeny systémovej hlasitosti.</string>
@@ -380,8 +380,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Odstrániť účet</string>
     <string name="ResetSettings">Obnoviť nastavenia</string>
-    <string name="ResetPreferences">Nastavenia **exteraGram** boli obnovené.</string>
-    <string name="ResetPreferencesInfo">Naozaj chcete obnoviť **všetky** nastavenia exteraGram na predvolené hodnoty?</string>
+    <string name="ResetPreferences">Nastavenia **sleepygram** boli obnovené.</string>
+    <string name="ResetPreferencesInfo">Naozaj chcete obnoviť **všetky** nastavenia sleepygram na predvolené hodnoty?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Podporiť vývoj</string>
     <string name="SupportDevelopmentInfo">Podporou projektu nielen prispievate k jeho vývoju, ale získate aj jedinečný odznak.</string>
@@ -398,10 +398,10 @@
     <string name="BoostyPeopleCount_few">%1$d ľudia</string>
     <string name="BoostyPeopleCount_many">%1$d ľudí</string>
     <string name="BoostyPeopleCount_other">%1$d ľudí</string>
-    <string name="BoostyInfo">Aktívne podporte **exteraGram** na **Boosty**.</string>
+    <string name="BoostyInfo">Aktívne podporte **sleepygram** na **Boosty**.</string>
     <string name="BoostyInfo2">Ďakujeme za vašu podporu!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Inštalácia pluginov je dostupná iba v **plnej** verzii **exteraGram**.</string>
+    <string name="PluginsNotSupported">Inštalácia pluginov je dostupná iba v **plnej** verzii **sleepygram**.</string>
     <string name="Plugins">Pluginy</string>
     <string name="PluginsEngine">Engine pluginov</string>
     <string name="EnablePluginsEngine">Povoliť engine pluginov</string>
@@ -494,7 +494,7 @@
     <string name="AreYouSureToLogin">Naozaj sa chcete prihlásiť k tomuto účtu na inom zariadení?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Stránka zablokovaná</string>
-    <string name="PageBlockedDescription">exteraGram zabránil načítaniu nasledujúcej stránky:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram zabránil načítaniu nasledujúcej stránky:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Späť</string>
     <!-- Other -->
     <string name="SetAsBadge">Nastaviť ako odznak</string>
@@ -524,7 +524,7 @@
     <string name="EmojiSavedHint">Emotikon uložený do galérie.</string>
     <string name="GifGallerySavedHint">GIF uložený do galérie.</string>
     <string name="MutualContactInfo">Tento kontakt je vzájomný.</string>
-    <string name="LocalPremiumEmojiHint">Nemáte predplatné **Telegram Premium**, takže tento emotikon uvidia iba používatelia **exteraGram**.</string>
+    <string name="LocalPremiumEmojiHint">Nemáte predplatné **Telegram Premium**, takže tento emotikon uvidia iba používatelia **sleepygram**.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Skryť kartu Kontakty</string>
     <string name="ShowContactsTab">Zobraziť kartu Kontakty</string>

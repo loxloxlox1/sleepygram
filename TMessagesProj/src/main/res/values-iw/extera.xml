@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">העדפות של exteraGram</string>
+    <string name="Preferences">העדפות של sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">קישורים</string>
     <string name="Crowdin">תרגום</string>
     <string name="Website">אתר האינטרנט</string>
     <string name="Categories">קטגוריות</string>
-    <string name="Developer">**%1$s** הוא חבר בצוות הפיתוח של **exteraGram**.</string>
+    <string name="Developer">**%1$s** הוא חבר בצוות הפיתוח של **sleepygram**.</string>
     <string name="DeveloperCompact">חבר בצוות המפתחים של אקסטרה-גרם.</string>
-    <string name="Supporter">**%1$s** תמך בפיתוח של **exteraGram** וקיבל תג בלעדי.</string>
-    <string name="OfficialChannel">**%1$s** הוא המשאב הרשמי של **exteraGram**.</string>
+    <string name="Supporter">**%1$s** תמך בפיתוח של **sleepygram** וקיבל תג בלעדי.</string>
+    <string name="OfficialChannel">**%1$s** הוא המשאב הרשמי של **sleepygram**.</string>
     <string name="NoSuchSetting">נראה שהגדרה כזו לא קיימת.</string>
     <string name="SettingLinkToSavedMessages">קישור להגדרה נשלח אל **הודעות שמורות**.</string>
     <string name="SettingLinkToUser">קישור להגדרה נשלח אל **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">מזג אוויר</string>
     <string name="WeatherSettingsInfo">בחר כיצד לקבוע את המיקום עבור תצוגת מזג האוויר בחיפוש.</string>
     <string name="WeatherLocation">זיהוי מיקום</string>
-    <string name="WeatherLocationPermissionNo">ל-exteraGram יש גישה למיקומך כדי להציג את מזג האוויר הנוכחי.</string>
+    <string name="WeatherLocationPermissionNo">ל-sleepygram יש גישה למיקומך כדי להציג את מזג האוויר הנוכחי.</string>
     <string name="WeatherLocationPermissionGrant">הענקת הרשאה</string>
     <string name="WeatherLocationServicesEnable">הפעל מיקום</string>
     <string name="WeatherPillTopInfo">הגדרות ווידג\'ט מזג אוויר עבור Pill Stack.</string>
@@ -435,7 +435,7 @@
     <string name="PauseOnMinimizeVideo">וידאו</string>
     <string name="PauseOnMinimizeVoice">קול</string>
     <string name="PauseOnMinimizeRound">מעוגל</string>
-    <string name="PauseOnMinimizeInfo">משהה את הפעלת המדיה כאשר המכשיר נעול או כאשר exteraGram ממוזער.</string>
+    <string name="PauseOnMinimizeInfo">משהה את הפעלת המדיה כאשר המכשיר נעול או כאשר sleepygram ממוזער.</string>
     <string name="SwipeToPip">החלקה ל-PIP (מרובע קטן)</string>
     <string name="UnmuteWithVolumeButtons">בטל השתקת סרטונים עם כפתורי הווליום</string>
     <string name="UnmuteWithVolumeButtonsInfo">לחיצה על כפתור עוצמת קול תבטל את השתקת הווידאו במקום לשנות את עוצמת הקול של המערכת.</string>
@@ -463,8 +463,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">מחק חשבון</string>
     <string name="ResetSettings">אפס הגדרות</string>
-    <string name="ResetPreferences">העדפות **exteraGram** אופסו.</string>
-    <string name="ResetPreferencesInfo">האם אתה בטוח שברצונך לאפס את **כל** העדפות exteraGram לברירת המחדל שלהן?</string>
+    <string name="ResetPreferences">העדפות **sleepygram** אופסו.</string>
+    <string name="ResetPreferencesInfo">האם אתה בטוח שברצונך לאפס את **כל** העדפות sleepygram לברירת המחדל שלהן?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">תמוך בפיתוח</string>
     <string name="SupportDevelopmentInfo">על ידי תמיכה בפרויקט, אתם לא רק תורמים לפיתוחו אלא גם מקבלים תג ייחודי.</string>
@@ -481,10 +481,10 @@
     <string name="BoostyPeopleCount_few">%1$d אנשים</string>
     <string name="BoostyPeopleCount_many">%1$d אנשים</string>
     <string name="BoostyPeopleCount_other">%1$d אנשים</string>
-    <string name="BoostyInfo">תמכו באופן פעיל ב- **exteraGram** ב- **Boosty**.</string>
+    <string name="BoostyInfo">תמכו באופן פעיל ב- **sleepygram** ב- **Boosty**.</string>
     <string name="BoostyInfo2">תודה על תמיכתך!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">התקנת תוספים זמינה רק בגרסה המלאה של exteraGram.</string>
+    <string name="PluginsNotSupported">התקנת תוספים זמינה רק בגרסה המלאה של sleepygram.</string>
     <string name="Plugins">תוספים</string>
     <string name="PluginsEngine">מנוע תוספים</string>
     <string name="EnablePluginsEngine">הפעלת מנוע תוספים</string>
@@ -601,7 +601,7 @@
     <string name="AreYouSureToLogin">האם אתה בטוח שאתה רוצה להתחבר לחשבון זה ממכשיר אחר?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">הדף חסום</string>
-    <string name="PageBlockedDescription">exteraGram מנע את טעינת הדף הבא:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram מנע את טעינת הדף הבא:\n**%1$s**</string>
     <string name="PageBlockedGoBack">חזור</string>
     <string name="BlockAds">חסום פרסומות</string>
     <string name="BlockedRequests_one">%1$d נחסם</string>
@@ -637,7 +637,7 @@
     <string name="EmojiSavedHint">האימוג\'י נשמר בגלריה.</string>
     <string name="GifGallerySavedHint">ה-GIF נשמר לגלריה.</string>
     <string name="MutualContactInfo">קשר זה הוא הדדי.</string>
-    <string name="LocalPremiumEmojiHint">אין לך מנוי ל- **טלגרם פרימיום**, כך שרק משתמשי **exteraGram** יוכלו לראות את האימוג\'י הזה.</string>
+    <string name="LocalPremiumEmojiHint">אין לך מנוי ל- **טלגרם פרימיום**, כך שרק משתמשי **sleepygram** יוכלו לראות את האימוג\'י הזה.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">הסתר את לשונית אנשי הקשר</string>
     <string name="ShowContactsTab">הצג את לשונית אנשי הקשר</string>

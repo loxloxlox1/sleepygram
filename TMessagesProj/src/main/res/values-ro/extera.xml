@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">Preferințe exteraGram</string>
+    <string name="Preferences">Preferințe sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Link-uri</string>
     <string name="Crowdin">Traduceți</string>
     <string name="Website">Site web</string>
     <string name="Categories">Categorii</string>
-    <string name="Developer">**%1$s** este membru al **exteraGram** echipă de dezvoltare.</string>
-    <string name="DeveloperCompact">Membru al echipei de dezvoltare **exteraGram**.</string>
-    <string name="Supporter">**%1$s** a susținut dezvoltarea **exteraGram** și a primit o insignă exclusivă.</string>
-    <string name="OfficialChannel">**%1$s** este resursa oficială a **exteraGram**.</string>
+    <string name="Developer">**%1$s** este membru al **sleepygram** echipă de dezvoltare.</string>
+    <string name="DeveloperCompact">Membru al echipei de dezvoltare **sleepygram**.</string>
+    <string name="Supporter">**%1$s** a susținut dezvoltarea **sleepygram** și a primit o insignă exclusivă.</string>
+    <string name="OfficialChannel">**%1$s** este resursa oficială a **sleepygram**.</string>
     <string name="NoSuchSetting">Se pare că o astfel de configurație nu există.</string>
     <string name="SettingLinkToSavedMessages">Link de setare trimis la **Mesaje salvate**.</string>
     <string name="SettingLinkToUser">Link de setare trimis la **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Vreme</string>
     <string name="WeatherSettingsInfo">Alegeți cum să determinați locația pentru afișarea vremii în căutare.</string>
     <string name="WeatherLocation">Detectarea locației</string>
-    <string name="WeatherLocationPermissionNo">exteraGram are nevoie de acces la locația dvs. pentru a afișa vremea curentă.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram are nevoie de acces la locația dvs. pentru a afișa vremea curentă.</string>
     <string name="WeatherLocationPermissionGrant">Acordă permisiune</string>
     <string name="WeatherLocationServicesEnable">Activează locația</string>
     <string name="WeatherPillTopInfo">Setări widget vreme pentru Stiva de pilule.</string>
@@ -352,7 +352,7 @@
     <string name="PauseOnMinimize">Auto Pauză</string>
     <string name="PauseOnMinimizeVoice">Voce</string>
     <string name="PauseOnMinimizeRound">Rotunjit</string>
-    <string name="PauseOnMinimizeInfo">Întrerupe redarea media atunci când dispozitivul este blocat sau exteraGram este minimizat.</string>
+    <string name="PauseOnMinimizeInfo">Întrerupe redarea media atunci când dispozitivul este blocat sau sleepygram este minimizat.</string>
     <string name="SwipeToPip">Glisați către PiP</string>
     <string name="UnmuteWithVolumeButtons">Dezmută videoclipurile cu butoanele de volum</string>
     <string name="UnmuteWithVolumeButtonsInfo">Apăsarea unui buton de volum va dezmuți videoclipul în loc să schimbe volumul sistemului.</string>
@@ -380,8 +380,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Șterge contul</string>
     <string name="ResetSettings">Resetează setări</string>
-    <string name="ResetPreferences">Preferințele **exteraGram** au fost resetate.</string>
-    <string name="ResetPreferencesInfo">Sunteți sigur că doriți să resetați **toate** preferințele exteraGram la valorile implicite?</string>
+    <string name="ResetPreferences">Preferințele **sleepygram** au fost resetate.</string>
+    <string name="ResetPreferencesInfo">Sunteți sigur că doriți să resetați **toate** preferințele sleepygram la valorile implicite?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Suportă Dezvoltarea</string>
     <string name="SupportDevelopmentInfo">Sprijinind proiectul, nu doar contribuiți la dezvoltarea acestuia, ci primiți și o insignă unică.</string>
@@ -398,10 +398,10 @@
     <string name="BoostyPeopleCount_few">%1$d persoane</string>
     <string name="BoostyPeopleCount_many">%1$d persoane</string>
     <string name="BoostyPeopleCount_other">%1$d persoane</string>
-    <string name="BoostyInfo">Susțineți activ **exteraGram** pe **Boosty**.</string>
+    <string name="BoostyInfo">Susțineți activ **sleepygram** pe **Boosty**.</string>
     <string name="BoostyInfo2">Vă mulțumim pentru susținere!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Instalarea pluginurilor este disponibilă doar în versiunea **Full** a **exteraGram**.</string>
+    <string name="PluginsNotSupported">Instalarea pluginurilor este disponibilă doar în versiunea **Full** a **sleepygram**.</string>
     <string name="Plugins">Plugin-uri</string>
     <string name="PluginsEngine">Motor Plugin-uri</string>
     <string name="EnablePluginsEngine">Activează motorul pentru plugin-uri</string>
@@ -492,7 +492,7 @@
     <string name="AreYouSureToLogin">Sunteți sigur că doriți să vă conectați la acest cont pe un alt dispozitiv?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Pagină blocată</string>
-    <string name="PageBlockedDescription">exteraGram a împiedicat încărcarea următoarei pagini:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram a împiedicat încărcarea următoarei pagini:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Înapoi</string>
     <!-- Other -->
     <string name="SetAsBadge">Setează ca insignă</string>
@@ -520,7 +520,7 @@
     <string name="EmojiSavedHint">Emoji salvat în galerie.</string>
     <string name="GifGallerySavedHint">GIF salvat în galerie.</string>
     <string name="MutualContactInfo">Acest contact este reciproc.</string>
-    <string name="LocalPremiumEmojiHint">Nu aveți un abonament **Telegram Premium**, așa că doar utilizatorii **exteraGram** vor putea vedea acest emoji.</string>
+    <string name="LocalPremiumEmojiHint">Nu aveți un abonament **Telegram Premium**, așa că doar utilizatorii **sleepygram** vor putea vedea acest emoji.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Ascunde fila Contacte</string>
     <string name="ShowContactsTab">Afișează fila Contacte</string>

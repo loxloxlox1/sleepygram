@@ -44,3 +44,4 @@ API_KEYS*
 **.project
 **/.settings
 **.classpath
+TMessagesProj/libs/*.aar

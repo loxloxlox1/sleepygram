@@ -9,7 +9,16 @@
       "descriptionRes": "AppIconDefaultInfo",
       "background": "@color/ic_background",
       "round": true,
-      "author": "exteraGram"
+      "author": "sleepygram"
+    },
+    {
+      "id": "sleepy",
+      "title": "Sleepy",
+      "description": "The sleepygram mascot — a moon that never wakes up.",
+      "background": "#2B2350",
+      "monochrome": "ic_launcher_monochrome.svg",
+      "author": "sleepygram",
+      "color": "#2B2350"
     },
     {
       "id": "beta",

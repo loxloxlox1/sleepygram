@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">Preferenze ExteraGram</string>
+    <string name="Preferences">Preferenze Sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Link</string>
     <string name="Crowdin">Traduci</string>
     <string name="Website">Sito</string>
     <string name="Categories">Categorie</string>
-    <string name="Developer">**%1$s** è un membro del team di sviluppo **exteraGram**</string>
-    <string name="DeveloperCompact">Membro del team di sviluppo **exteraGram**.</string>
-    <string name="Supporter">**%1$s** ha supportato lo sviluppo di **exteraGram** e ha ricevuto un distintivo esclusivo.</string>
-    <string name="OfficialChannel">**%1$s** è la risorsa ufficiale di **exteraGram**.</string>
+    <string name="Developer">**%1$s** è un membro del team di sviluppo **sleepygram**</string>
+    <string name="DeveloperCompact">Membro del team di sviluppo **sleepygram**.</string>
+    <string name="Supporter">**%1$s** ha supportato lo sviluppo di **sleepygram** e ha ricevuto un distintivo esclusivo.</string>
+    <string name="OfficialChannel">**%1$s** è la risorsa ufficiale di **sleepygram**.</string>
     <string name="NoSuchSetting">L\'impostazione apparentemente non esiste 🤔</string>
     <string name="SettingLinkToSavedMessages">Link impostazioni inviato a **Messaggi salvati**.</string>
     <string name="SettingLinkToUser">Link impostazioni inviato a **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Meteo</string>
     <string name="WeatherSettingsInfo">Scegli come determinare la posizione per il meteo nella ricerca.</string>
     <string name="WeatherLocation">Rilevamento della posizione</string>
-    <string name="WeatherLocationPermissionNo">exteraGram ha bisogno di accedere alla tua posizione per visualizzare il meteo.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram ha bisogno di accedere alla tua posizione per visualizzare il meteo.</string>
     <string name="WeatherLocationPermissionGrant">Autorizza</string>
     <string name="WeatherLocationServicesEnable">Attiva localizzazione</string>
     <string name="WeatherPillTopInfo">Impostazioni meteo per le pillole di ricerca.</string>
@@ -348,7 +348,7 @@
     <string name="PauseOnMinimize">Pausa automatica</string>
     <string name="PauseOnMinimizeVoice">Messaggi vocali</string>
     <string name="PauseOnMinimizeRound">Videomessaggi rotondi</string>
-    <string name="PauseOnMinimizeInfo">Mette in pausa la riproduzione quando il dispositivo è bloccato o exteraGram è minimizzato.</string>
+    <string name="PauseOnMinimizeInfo">Mette in pausa la riproduzione quando il dispositivo è bloccato o sleepygram è minimizzato.</string>
     <string name="SwipeToPip">Trascina giù per PiP</string>
     <string name="UnmuteWithVolumeButtons">Ripristina audio con tasti</string>
     <string name="UnmuteWithVolumeButtonsInfo">La pressione di un tasto volume ripristinerà l\'audio del video invece di modificare il volume di sistema.</string>
@@ -376,10 +376,10 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Elimina account</string>
     <string name="ResetSettings">Resetta impostazioni</string>
-    <string name="ResetPreferences">Le impostazioni predefinite di **exteraGram** sono state ripristinate.</string>
-    <string name="ResetPreferencesInfo">Vuoi davvero riportare le impostazioni di **exteraGram** ai loro valori predefiniti?</string>
+    <string name="ResetPreferences">Le impostazioni predefinite di **sleepygram** sono state ripristinate.</string>
+    <string name="ResetPreferencesInfo">Vuoi davvero riportare le impostazioni di **sleepygram** ai loro valori predefiniti?</string>
     <!-- Donates -->
-    <string name="SupportDevelopment">Sostieni lo sviluppo di exteraGram</string>
+    <string name="SupportDevelopment">Sostieni lo sviluppo di sleepygram</string>
     <string name="SupportDevelopmentInfo">Sostenendo il progetto, non solo contribuisci al suo sviluppo, ma ottieni anche un distintivo unico.</string>
     <string name="MakeDonation">Donazione</string>
     <string name="ReceiveBadge">Ricevi il tuo distintivo</string>
@@ -394,10 +394,10 @@
     <string name="BoostyPeopleCount_few">%1$d persone</string>
     <string name="BoostyPeopleCount_many">%1$d persone</string>
     <string name="BoostyPeopleCount_other">%1$d persone</string>
-    <string name="BoostyInfo">Supporta **exteraGram** su **Boosty**.</string>
+    <string name="BoostyInfo">Supporta **sleepygram** su **Boosty**.</string>
     <string name="BoostyInfo2">Grazie per il tuo sostegno!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">L\'installazione dei plugin è disponibile solo nella versione **Full** di **exteraGram**.</string>
+    <string name="PluginsNotSupported">L\'installazione dei plugin è disponibile solo nella versione **Full** di **sleepygram**.</string>
     <string name="Plugins">Plug-in</string>
     <string name="PluginsEngine">Plug-in</string>
     <string name="EnablePluginsEngine">Abilita i plug-in</string>
@@ -488,7 +488,7 @@
     <string name="AreYouSureToLogin">Vuoi davvero accedere a questo account da un altro dispositivo?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Pagina bloccata</string>
-    <string name="PageBlockedDescription">exteraGram ha impedito il caricamento della pagina seguente:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram ha impedito il caricamento della pagina seguente:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Torna indietro</string>
     <string name="BlockedRequests_other">%1$d bloccato</string>
     <string name="AdBlockFiltersLoading">Caricamento Filtri…</string>
@@ -519,7 +519,7 @@
     <string name="EmojiSavedHint">Emoji salvata come immagine.</string>
     <string name="GifGallerySavedHint">GIF salvata nella galleria.</string>
     <string name="MutualContactInfo">Contatto reciproco.</string>
-    <string name="LocalPremiumEmojiHint">Non hai un abbonamento **Telegram Premium**, quindi solo gli utenti di **exteraGram** vedranno questa emoji.</string>
+    <string name="LocalPremiumEmojiHint">Non hai un abbonamento **Telegram Premium**, quindi solo gli utenti di **sleepygram** vedranno questa emoji.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Nascondi la scheda Contatti</string>
     <string name="ShowContactsTab">Mostra la scheda Contatti</string>

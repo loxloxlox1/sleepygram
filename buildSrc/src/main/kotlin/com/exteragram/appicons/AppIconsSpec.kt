@@ -115,7 +115,11 @@ internal object AppIconsSpec {
         }
 
         val owner = (json.author?.trim().takeUnless { it.isNullOrEmpty() } ?: "exteragram").lowercase()
-        val dir = File(File(sourceDir, owner), id)
+        val authorDir = File(sourceDir, owner).let { exact ->
+            if (exact.isDirectory) exact else sourceDir.listFiles()
+                ?.firstOrNull { it.isDirectory && it.name.equals(owner, ignoreCase = true) } ?: exact
+        }
+        val dir = File(authorDir, id)
 
         val resource = json.resource?.trim().takeUnless { it.isNullOrEmpty() } ?: "ic_launcher_$id"
         if (!RESOURCE_NAME.matches(resource)) {

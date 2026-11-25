@@ -10,7 +10,7 @@
 
 -->
 <resources>
-    <string name="Preferences">Pengaturan exteraGram</string>
+    <string name="Preferences">Pengaturan sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Tautan</string>
     <string name="Website">Situs web</string>
@@ -33,7 +33,7 @@
     <string name="WeatherPill">Cuaca</string>
     <string name="WeatherSettingsInfo">Pilih cara menentukan lokasi untuk tampilan cuaca di pencarian.</string>
     <string name="WeatherLocation">Deteksi Lokasi</string>
-    <string name="WeatherLocationPermissionNo">exteraGram memerlukan akses ke lokasi Anda untuk menampilkan cuaca saat ini.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram memerlukan akses ke lokasi Anda untuk menampilkan cuaca saat ini.</string>
     <string name="WeatherLocationPermissionGrant">Berikan Izin</string>
     <string name="WeatherLocationServicesEnable">Aktifkan Lokasi</string>
     <string name="WeatherPillTopInfo">Pengaturan widget Cuaca untuk Tumpukan Pil.</string>
@@ -346,7 +346,7 @@
     <string name="PauseOnMinimize">Jeda Otomatis</string>
     <string name="PauseOnMinimizeVoice">Suara</string>
     <string name="PauseOnMinimizeRound">Lingkaran</string>
-    <string name="PauseOnMinimizeInfo">Menjeda pemutaran media saat perangkat dikunci atau exteraGram diminimalkan.</string>
+    <string name="PauseOnMinimizeInfo">Menjeda pemutaran media saat perangkat dikunci atau sleepygram diminimalkan.</string>
     <string name="SwipeToPip">Geser ke PiP</string>
     <string name="UnmuteWithVolumeButtons">Nyalakan Suara Video dengan Tombol Volume</string>
     <string name="UnmuteWithVolumeButtonsInfo">Menekan tombol volume akan menyalakan suara video, bukan mengubah volume sistem.</string>
@@ -374,8 +374,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Hapus Akun</string>
     <string name="ResetSettings">Atur Ulang Pengaturan</string>
-    <string name="ResetPreferences">Preferensi **exteraGram** telah direset.</string>
-    <string name="ResetPreferencesInfo">Apakah Anda yakin ingin mereset **semua** preferensi exteraGram ke default?</string>
+    <string name="ResetPreferences">Preferensi **sleepygram** telah direset.</string>
+    <string name="ResetPreferencesInfo">Apakah Anda yakin ingin mereset **semua** preferensi sleepygram ke default?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Dukung Pengembangan</string>
     <string name="SupportDevelopmentInfo">Dengan mendukung proyek ini, Anda tidak hanya berkontribusi pada pengembangannya tetapi juga mendapatkan lencana unik.</string>
@@ -392,10 +392,10 @@
     <string name="BoostyPeopleCount_few">%1$d orang</string>
     <string name="BoostyPeopleCount_many">%1$d orang</string>
     <string name="BoostyPeopleCount_other">%1$d orang</string>
-    <string name="BoostyInfo">Dukung secara aktif **exteraGram** di **Boosty**.</string>
+    <string name="BoostyInfo">Dukung secara aktif **sleepygram** di **Boosty**.</string>
     <string name="BoostyInfo2">Terima kasih atas dukungan Anda!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Instalasi plugin hanya tersedia dalam versi **Penuh** dari **exteraGram**.</string>
+    <string name="PluginsNotSupported">Instalasi plugin hanya tersedia dalam versi **Penuh** dari **sleepygram**.</string>
     <string name="Plugins">Plugin</string>
     <string name="PluginsEngine">Mesin Plugin</string>
     <string name="EnablePluginsEngine">Aktifkan Mesin Plugin</string>
@@ -485,7 +485,7 @@
     <string name="AreYouSureToLogin">Apakah Anda yakin ingin masuk ke akun ini di perangkat lain?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Halaman diblokir</string>
-    <string name="PageBlockedDescription">exteraGram telah mencegah pemuatan halaman berikut:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram telah mencegah pemuatan halaman berikut:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Kembali</string>
     <!-- Other -->
     <string name="SetAsBadge">Atur sebagai Lencana</string>
@@ -515,7 +515,7 @@
     <string name="EmojiSavedHint">Emoji disimpan ke galeri.</string>
     <string name="GifGallerySavedHint">GIF disimpan ke galeri.</string>
     <string name="MutualContactInfo">Kontak ini saling mengenal.</string>
-    <string name="LocalPremiumEmojiHint">Anda tidak memiliki langganan **Telegram Premium**, sehingga hanya pengguna **exteraGram** yang dapat melihat emoji ini.</string>
+    <string name="LocalPremiumEmojiHint">Anda tidak memiliki langganan **Telegram Premium**, sehingga hanya pengguna **sleepygram** yang dapat melihat emoji ini.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Sembunyikan Tab Kontak</string>
     <string name="ShowContactsTab">Tampilkan Tab Kontak</string>

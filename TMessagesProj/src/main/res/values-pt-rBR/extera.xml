@@ -10,15 +10,15 @@
 
 -->
 <resources>
-    <string name="Preferences">Configurações do exteraGram</string>
+    <string name="Preferences">Configurações do sleepygram</string>
     <!-- Main Menu -->
     <string name="Crowdin">Tradução</string>
     <string name="Website">Site</string>
     <string name="Categories">Categorias</string>
-    <string name="Developer">**%1$s** é um membro do time de desenvolvimento **exteraGram**.</string>
-    <string name="DeveloperCompact">Membro do time de desenvolvimento **exteraGram**.</string>
-    <string name="Supporter">**%1$s** apoiou o desenvolvimento do **exteraGram** e recebeu um emblema exclusivo.</string>
-    <string name="OfficialChannel">**%1$s** é o recurso oficial do **exteraGram**.</string>
+    <string name="Developer">**%1$s** é um membro do time de desenvolvimento **sleepygram**.</string>
+    <string name="DeveloperCompact">Membro do time de desenvolvimento **sleepygram**.</string>
+    <string name="Supporter">**%1$s** apoiou o desenvolvimento do **sleepygram** e recebeu um emblema exclusivo.</string>
+    <string name="OfficialChannel">**%1$s** é o recurso oficial do **sleepygram**.</string>
     <string name="NoSuchSetting">Parece que tal configuração não existe.</string>
     <string name="SettingLinkToSavedMessages">Link de configuração enviado para **Mensagens Salvas**.</string>
     <string name="SettingLinkToUser">Link de configuração enviado para **%1$s**.</string>
@@ -35,7 +35,7 @@
     <string name="WeatherPill">Clima</string>
     <string name="WeatherSettingsInfo">Escolha como determinar a localização para a exibição do clima na pesquisa.</string>
     <string name="WeatherLocation">Detecção de Localização</string>
-    <string name="WeatherLocationPermissionNo">exteraGram precisa acessar sua localização para exibir o clima atual.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram precisa acessar sua localização para exibir o clima atual.</string>
     <string name="WeatherLocationPermissionGrant">Conceder Permissão</string>
     <string name="WeatherLocationServicesEnable">Ativar Localização</string>
     <string name="WeatherPillTopInfo">Configurações do widget do clima para o Pill Stack.</string>
@@ -419,7 +419,7 @@
     <string name="PauseOnMinimizeVideo">Vídeo</string>
     <string name="PauseOnMinimizeVoice">Voz</string>
     <string name="PauseOnMinimizeRound">Mensagens de Vídeos</string>
-    <string name="PauseOnMinimizeInfo">Pausa a reprodução de mídia quando o dispositivo está bloqueado ou exteraGram é minimizado.</string>
+    <string name="PauseOnMinimizeInfo">Pausa a reprodução de mídia quando o dispositivo está bloqueado ou sleepygram é minimizado.</string>
     <string name="SwipeToPip">Deslize para o PiP</string>
     <string name="UnmuteWithVolumeButtons">Reativar vídeos com botões de volume</string>
     <string name="UnmuteWithVolumeButtonsInfo">Pressionar um botão de volume irá reativar o vídeo em vez de alterar o volume do sistema.</string>
@@ -447,8 +447,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Excluir Conta</string>
     <string name="ResetSettings">Redefinir Configurações</string>
-    <string name="ResetPreferences">As configurações do **exteraGram** foram redefinidas.</string>
-    <string name="ResetPreferencesInfo">Você tem certeza que deseja redefinir **todas** as configurações do exteraGram para seus padrões?</string>
+    <string name="ResetPreferences">As configurações do **sleepygram** foram redefinidas.</string>
+    <string name="ResetPreferencesInfo">Você tem certeza que deseja redefinir **todas** as configurações do sleepygram para seus padrões?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Apoie o Desenvolvimento</string>
     <string name="SupportDevelopmentInfo">Ao apoiar o projeto, você não só contribui para o seu desenvolvimento, mas também obtém um emblema único.</string>
@@ -465,10 +465,10 @@
     <string name="BoostyPeopleCount_few">%1$d pessoas</string>
     <string name="BoostyPeopleCount_many">%1$d pessoas</string>
     <string name="BoostyPeopleCount_other">%1$d pessoas</string>
-    <string name="BoostyInfo">Apoie ativamente o **exteraGram** no **Boosty**.</string>
+    <string name="BoostyInfo">Apoie ativamente o **sleepygram** no **Boosty**.</string>
     <string name="BoostyInfo2">Obrigado pelo seu apoio!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Instalação do plugin está disponível apenas na versão **Full** do **exteraGram**.</string>
+    <string name="PluginsNotSupported">Instalação do plugin está disponível apenas na versão **Full** do **sleepygram**.</string>
     <string name="PluginsEngine">Sistema de Plugins</string>
     <string name="EnablePluginsEngine">Habilitar Sistema de Plugins</string>
     <string name="PluginsInfo">Você pode encontrar plugins em @exteraPlugins.</string>
@@ -584,7 +584,7 @@
     <string name="AreYouSureToLogin">Tem certeza que deseja fazer login nesta conta em outro dispositivo?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Página bloqueada</string>
-    <string name="PageBlockedDescription">exteraGram impediu a seguinte página de carregar:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram impediu a seguinte página de carregar:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Voltar</string>
     <string name="AdBlockFiltersLoading">Carregando Filtros…</string>
     <!-- Other -->
@@ -614,7 +614,7 @@
     <string name="EmojiSavedHint">Emoji salvo na galeria.</string>
     <string name="GifGallerySavedHint">GIF salvo na galeria.</string>
     <string name="MutualContactInfo">Este contato é mútuo.</string>
-    <string name="LocalPremiumEmojiHint">Você não tem uma assinatura **Telegram Premium**, então apenas usuários **exteraGram** poderão ver este emoji.</string>
+    <string name="LocalPremiumEmojiHint">Você não tem uma assinatura **Telegram Premium**, então apenas usuários **sleepygram** poderão ver este emoji.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Ocultar aba Contatos</string>
     <string name="ShowContactsTab">Exibir aba de Contatos</string>

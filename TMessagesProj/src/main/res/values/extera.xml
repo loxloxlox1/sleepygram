@@ -12,8 +12,8 @@
 -->
 
 <resources>
-    <string name="exteraAppName" translatable="false">exteraGram</string>
-    <string name="Preferences">exteraGram Preferences</string>
+    <string name="exteraAppName" translatable="false">sleepygram</string>
+    <string name="Preferences">sleepygram Preferences</string>
 
     <!-- Main Menu -->
     <string name="Links">Links</string>
@@ -21,10 +21,10 @@
     <string name="Website">Website</string>
     <string name="SourceCode">Source Code</string>
     <string name="Categories">Categories</string>
-    <string name="Developer">**%1$s** is a member of the **exteraGram** development team.</string>
-    <string name="DeveloperCompact">Member of the **exteraGram** development team.</string>
-    <string name="Supporter">**%1$s** supported the development of **exteraGram** and received an unique badge.</string>
-    <string name="OfficialChannel">**%1$s** is the official resource of **exteraGram**.</string>
+    <string name="Developer">**%1$s** is a member of the **sleepygram** development team.</string>
+    <string name="DeveloperCompact">Member of the **sleepygram** development team.</string>
+    <string name="Supporter">**%1$s** supported the development of **sleepygram** and received an unique badge.</string>
+    <string name="OfficialChannel">**%1$s** is the official resource of **sleepygram**.</string>
     <string name="NoSuchSetting">It seems that such a setting does not exist.</string>
     <string name="SettingLinkToSavedMessages">Setting link sent to **Saved Messages**.</string>
     <string name="SettingLinkToUser">Setting link sent to **%1$s**.</string>
@@ -45,7 +45,7 @@
     <string name="WeatherPill">Weather</string>
     <string name="WeatherSettingsInfo">Choose how to determine the location for the weather display in search.</string>
     <string name="WeatherLocation">Location Detection</string>
-    <string name="WeatherLocationPermissionNo">exteraGram needs access to your location to display the current weather.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram needs access to your location to display the current weather.</string>
     <string name="WeatherLocationPermissionGrant">Grant Permission</string>
     <string name="WeatherLocationServicesEnable">Enable Location</string>
     <string name="WeatherPillTopInfo">Weather widget settings for Pill Stack.</string>
@@ -724,7 +724,7 @@
     <string name="PauseOnMinimizeVideo">Video</string>
     <string name="PauseOnMinimizeVoice">Voice</string>
     <string name="PauseOnMinimizeRound">Round</string>
-    <string name="PauseOnMinimizeInfo">Pauses media playback when the device is locked or exteraGram is minimized.</string>
+    <string name="PauseOnMinimizeInfo">Pauses media playback when the device is locked or sleepygram is minimized.</string>
     <string name="SwipeToPip">Swipe to PiP</string>
     <string name="UnmuteWithVolumeButtons">Unmute Videos with Volume Buttons</string>
     <string name="UnmuteWithVolumeButtonsInfo">Pressing a volume button will unmute the video instead of changing the system volume.</string>
@@ -848,8 +848,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Delete Account</string>
     <string name="ResetSettings">Reset Settings</string>
-    <string name="ResetPreferences">**exteraGram** preferences have been reset.</string>
-    <string name="ResetPreferencesInfo">Are you sure you want to reset **all** exteraGram preferences to their defaults?</string>
+    <string name="ResetPreferences">**sleepygram** preferences have been reset.</string>
+    <string name="ResetPreferencesInfo">Are you sure you want to reset **all** sleepygram preferences to their defaults?</string>
 
     <!-- Donates -->
     <string name="SupportDevelopment">Support Development</string>
@@ -857,7 +857,7 @@
     <string name="MakeDonation">Make a Donation</string>
     <string name="DonateApp">Card, SBP or Crypto</string>
     <string name="DonateAppInfo">Pay %1$s by card, SBP or crypto.</string>
-    <string name="SupportBannerTitle">Support exteraGram</string>
+    <string name="SupportBannerTitle">Support sleepygram</string>
     <string name="SupportBannerInfo">Get a numbered badge and a few more perks.</string>
     <string name="SupportBannerButton">Support</string>
     <string name="SupportBannerBadge">Your badge is %1$s.</string>
@@ -874,11 +874,11 @@
     <string name="SupporterBadgeReset">Reset to Default</string>
     <string name="SupporterBadgeName">Arrow Badge %1$s</string>
     <string name="SupporterBadgeNameCustom">Badge %1$s</string>
-    <string name="SupporterOtherTitle">**%1$s** supports exteraGram</string>
+    <string name="SupporterOtherTitle">**%1$s** supports sleepygram</string>
     <string name="SupporterOtherSubtitle">Supporters get these perks:</string>
     <string name="SupporterHowToGet">How to Get</string>
     <string name="SupporterPerkBadge">Numbered Badge</string>
-    <string name="SupporterPerkBadgeInfo">A badge with your number next to your name, visible to everyone on exteraGram.</string>
+    <string name="SupporterPerkBadgeInfo">A badge with your number next to your name, visible to everyone on sleepygram.</string>
     <string name="SupporterPerkNowPlaying">Now Playing</string>
     <string name="SupporterPerkNowPlayingInfo">Show the track you\'re playing on Last.fm or stats.fm in your profile.</string>
     <string name="SupporterPerkRegDate">Registration Dates</string>
@@ -909,11 +909,11 @@
     <string name="BoostyPeopleCount_few">%1$d people</string>
     <string name="BoostyPeopleCount_many">%1$d people</string>
     <string name="BoostyPeopleCount_other">%1$d people</string>
-    <string name="BoostyInfo">Actively support the **exteraGram** on **Boosty**.</string>
+    <string name="BoostyInfo">Actively support the **sleepygram** on **Boosty**.</string>
     <string name="BoostyInfo2">Thank you for your support!</string>
 
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Plugin installation is available only in the **Full** version of the **exteraGram**.</string>
+    <string name="PluginsNotSupported">Plugin installation is available only in the **Full** version of the **sleepygram**.</string>
     <string name="Plugins">Plugins</string>
     <string name="PluginsEngine">Plugins Engine</string>
     <string name="EnablePluginsEngine">Enable Plugins Engine</string>
@@ -935,7 +935,7 @@
     <string name="PluginCatalogGitRepository">Git Repository</string>
     <string name="PluginCatalogGitLinkHint">github.com/user/repo</string>
     <string name="PluginCatalogGitLoadFailed">Couldn\'t load the repository. Check the link and try again.</string>
-    <string name="PluginCatalogGitUnsupported">This repository needs a newer version of exteraGram.</string>
+    <string name="PluginCatalogGitUnsupported">This repository needs a newer version of sleepygram.</string>
     <string name="PluginCatalogOpenRepository">Open Repository</string>
     <string name="PluginCatalogRepositoryAdded">**%1$s** added to repositories.</string>
     <string name="PluginCatalogRepositoryRemoved">**%1$s** removed from repositories.</string>
@@ -1185,7 +1185,7 @@
 
     <!-- AdBlock -->
     <string name="PageBlocked">Page blocked</string>
-    <string name="PageBlockedDescription">exteraGram has prevented the following page from loading:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram has prevented the following page from loading:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Go back</string>
     <string name="BlockAds">Block Ads</string>
     <string name="BlockedRequests_one">%1$d blocked</string>
@@ -1225,7 +1225,7 @@
     <string name="EmojiSavedHint">Emoji saved to gallery.</string>
     <string name="GifGallerySavedHint">GIF saved to gallery.</string>
     <string name="MutualContactInfo">This contact is mutual.</string>
-    <string name="LocalPremiumEmojiHint">You do not have a **Telegram Premium** subscription, so only **exteraGram** users will be able to see this emoji.</string>
+    <string name="LocalPremiumEmojiHint">You do not have a **Telegram Premium** subscription, so only **sleepygram** users will be able to see this emoji.</string>
 
     <!-- Main Tabs -->
     <string name="HideContactsTab">Hide Contacts Tab</string>
@@ -1460,4 +1460,43 @@
     <string name="MessageExportStickerToSavedMessages">Sticker sent to **Saved Messages**.</string>
     <string name="MessageExportStickerToUser">Sticker sent to **%1$s**.</string>
     <string name="MessageExportStickerToChats">Sticker sent to **%1$s**.</string>
+
+    <!-- Xray -->
+    <string name="XraySettings">Xray</string>
+    <string name="XrayConnection">Connection</string>
+    <string name="XrayEnable">Enable Xray</string>
+    <string name="XrayRunningOnPort">Running on 127.0.0.1:%1$d</string>
+    <string name="XrayDisabled">Disabled</string>
+    <string name="XrayActiveProfile">Active profile</string>
+    <string name="XrayUnnamedProfile">Unnamed profile</string>
+    <string name="XrayConnectionInfo">All Telegram traffic will be routed through the selected Xray profile. The tunnel listens on localhost only.</string>
+    <string name="XrayProfiles">Profiles</string>
+    <string name="XrayProfilesInfo">Xray core %1$s. Import share links (vless, vmess, trojan, shadowsocks, hysteria2) or a subscription link.</string>
+    <string name="XrayImportFromClipboard">Import from clipboard</string>
+    <string name="XrayAddSubscription">Add subscription</string>
+    <string name="XrayNoProfiles">No profiles yet. Copy a share link or subscription and import it here.</string>
+    <string name="XrayProfileSelected">Selected</string>
+    <string name="XrayCheckAll">Check all</string>
+    <string name="XrayStopped">Xray stopped</string>
+    <string name="XrayStarting">Starting Xray…</string>
+    <string name="XrayStarted">Xray started</string>
+    <string name="XrayStartFailed">Failed to start: %1$s</string>
+    <string name="XraySelectProfile">Select profile</string>
+    <string name="XrayUseProfile">Use profile</string>
+    <string name="XrayCheck">Check connection</string>
+    <string name="XrayRename">Rename</string>
+    <string name="XrayDelete">Delete</string>
+    <string name="XrayProfileName">Profile name</string>
+    <string name="XrayDeleteConfirm">Delete "%1$s"?</string>
+    <string name="XrayChecking">Checking…</string>
+    <string name="XrayPingResult">%1$d ms</string>
+    <string name="XrayPingFailed">Connection failed</string>
+    <string name="XrayCheckDone">Check completed</string>
+    <string name="XrayClipboardEmpty">Clipboard is empty</string>
+    <string name="XrayImporting">Importing…</string>
+    <string name="XrayImported">Imported profiles: %1$d</string>
+    <string name="XrayImportFailed">Import failed: %1$s</string>
+    <string name="XrayDownloading">Downloading subscription…</string>
+    <string name="XraySubscription">Subscription</string>
+    <string name="XrayImport">Imported</string>
 </resources>

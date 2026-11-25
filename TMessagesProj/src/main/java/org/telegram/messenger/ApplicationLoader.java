@@ -420,6 +420,10 @@ public class ApplicationLoader extends Application implements Provider {
         AppIconController.fixLauncherIconIfNeeded();
         ProxyRotationController.init();
         ProxyPingController.init();
+        com.exteragram.messenger.xray.XrayController.INSTANCE.preloadVersion();
+        if (MessagesController.getGlobalMainSettings().getBoolean("xray_autostart", true)) {
+            com.exteragram.messenger.xray.XrayController.INSTANCE.autoStartIfNeeded();
+        }
 
         // extera debug
         HeapMonitor.init();

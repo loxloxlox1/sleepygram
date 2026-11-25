@@ -20,6 +20,7 @@ import android.view.View
 import com.exteragram.messenger.plugins.PluginsController
 import com.exteragram.messenger.plugins.ui.PluginsActivity
 import com.exteragram.messenger.preferences.appearance.AppearancePreferencesActivity
+import com.exteragram.messenger.xray.XrayPreferencesActivity
 import com.exteragram.messenger.preferences.chats.ChatsPreferencesActivity
 import com.exteragram.messenger.preferences.components.CommunityCardCell
 import com.exteragram.messenger.preferences.components.HeaderSettingsCell
@@ -49,6 +50,7 @@ class MainPreferencesActivity : BasePreferencesActivity(), NotificationCenter.No
         GENERAL_CATEGORY,
         APPEARANCE_CATEGORY,
         CHATS_CATEGORY,
+        XRAY_CATEGORY,
         PLUGINS_CATEGORY,
         OTHER_CATEGORY,
         CHANNEL,
@@ -91,6 +93,7 @@ class MainPreferencesActivity : BasePreferencesActivity(), NotificationCenter.No
         items.add(uButton(PreferenceItem.GENERAL_CATEGORY, getString(R.string.General), R.drawable.msg_media, linkAlias = "general"))
         items.add(uButton(PreferenceItem.APPEARANCE_CATEGORY, getString(R.string.Appearance), R.drawable.msg_theme, linkAlias = "appearance"))
         items.add(uButton(PreferenceItem.CHATS_CATEGORY, getString(R.string.SearchAllChatsShort), R.drawable.msg_discussion, linkAlias = "chats"))
+        items.add(uButton(PreferenceItem.XRAY_CATEGORY, getString(R.string.XraySettings), R.drawable.msg_link, linkAlias = "xray"))
         items.addIf(PluginsController.isPluginEngineSupported(), uButton(PreferenceItem.PLUGINS_CATEGORY, getString(R.string.Plugins), R.drawable.msg_plugins, linkAlias = "plugins"))
         items.add(uButton(PreferenceItem.OTHER_CATEGORY, getString(R.string.LocalOther), R.drawable.msg_fave, linkAlias = "other"))
         items.add(UItem.asShadow())
@@ -120,6 +123,7 @@ class MainPreferencesActivity : BasePreferencesActivity(), NotificationCenter.No
             PreferenceItem.GENERAL_CATEGORY -> presentFragment(GeneralPreferencesActivity())
             PreferenceItem.APPEARANCE_CATEGORY -> presentFragment(AppearancePreferencesActivity())
             PreferenceItem.CHATS_CATEGORY -> presentFragment(ChatsPreferencesActivity())
+            PreferenceItem.XRAY_CATEGORY -> presentFragment(XrayPreferencesActivity())
             PreferenceItem.PLUGINS_CATEGORY -> presentFragment(PluginsActivity())
             PreferenceItem.OTHER_CATEGORY -> presentFragment(OtherPreferencesActivity())
             PreferenceItem.CHANNEL -> messagesController.openByUserName(CHANNEL_USERNAME, this, 1)

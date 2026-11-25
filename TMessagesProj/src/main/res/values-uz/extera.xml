@@ -10,7 +10,7 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram parametrlari</string>
+    <string name="Preferences">sleepygram parametrlari</string>
     <!-- Main Menu -->
     <string name="Links">Havolalar</string>
     <string name="Categories">Turkum</string>
@@ -32,7 +32,7 @@
     <string name="WeatherPill">Ob-havo</string>
     <string name="WeatherSettingsInfo">Ob-havo ma’lumotlarini olish uchun joylashuvni aniqlash usulini tanlang</string>
     <string name="WeatherLocation">Joylashuvni aniqlash</string>
-    <string name="WeatherLocationPermissionNo">Ob-havoni koʻrsatish uchun exteraGram sizning joylashuvingizni talab qiladi</string>
+    <string name="WeatherLocationPermissionNo">Ob-havoni koʻrsatish uchun sleepygram sizning joylashuvingizni talab qiladi</string>
     <string name="WeatherLocationPermissionGrant">Ruxsat berish</string>
     <string name="WeatherLocationServicesEnable">Joylashuvni yoqish</string>
     <string name="WeatherPillTopInfo">Vidjetlar yigʻini uchun ob-havo vidjetlari sozlamalari</string>
@@ -400,7 +400,7 @@
     <string name="PauseOnMinimize">Avto-pauza</string>
     <string name="PauseOnMinimizeVoice">Ovoz</string>
     <string name="PauseOnMinimizeRound">Davra</string>
-    <string name="PauseOnMinimizeInfo">Qurilma qulflanganda yoki exteraGram minimallashtirilganda media ijrosini toʻxtatadi.</string>
+    <string name="PauseOnMinimizeInfo">Qurilma qulflanganda yoki sleepygram minimallashtirilganda media ijrosini toʻxtatadi.</string>
     <string name="SwipeToPip">PiP ga o\'zgartirish</string>
     <string name="UnmuteWithVolumeButtons">Ovoz tugmalari bilan videolarni ovozini yoqish</string>
     <string name="UnmuteWithVolumeButtonsInfo">Ovoz tugmasini bosish tizim ovozini oʻzgartirmay, video ovozini yoqadi.</string>
@@ -427,8 +427,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Hisobni o‘chirish</string>
     <string name="ResetSettings">Sozlamalarni asliga qaytarish</string>
-    <string name="ResetPreferences">**exteraGram** sozlanishlari tiklandi.</string>
-    <string name="ResetPreferencesInfo">**Barcha** exteraGram sozlamalarini standart holatga qaytarishni xohlaysizmi?</string>
+    <string name="ResetPreferences">**sleepygram** sozlanishlari tiklandi.</string>
+    <string name="ResetPreferencesInfo">**Barcha** sleepygram sozlamalarini standart holatga qaytarishni xohlaysizmi?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Loyihani qollab quvatlash</string>
     <string name="SupportDevelopmentInfo">Loyihani qoʻllab-quvvatlash orqali siz nafaqat uning rivojlanishiga hissa qoʻshasiz, balki noyob belgiga ega boʻlasiz.</string>
@@ -445,10 +445,10 @@
     <string name="BoostyPeopleCount_few">%1$d kishi</string>
     <string name="BoostyPeopleCount_many">%1$d kishi</string>
     <string name="BoostyPeopleCount_other">%1$d kishi</string>
-    <string name="BoostyInfo">**exteraGram** ni **Boosty** da faol qoʻllab-quvvatlang.</string>
+    <string name="BoostyInfo">**sleepygram** ni **Boosty** da faol qoʻllab-quvvatlang.</string>
     <string name="BoostyInfo2">Qoʻllab-quvvatlaganingiz uchun rahmat!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Plagin oʻrnatish faqat **exteraGram** ning **Toʻliq** versiyasida mavjud.</string>
+    <string name="PluginsNotSupported">Plagin oʻrnatish faqat **sleepygram** ning **Toʻliq** versiyasida mavjud.</string>
     <string name="Plugins">Plaginlar</string>
     <string name="PluginsEngine">Plagin dvigateli</string>
     <string name="EnablePluginsEngine">Plagin dvigatelini yoqish</string>
@@ -589,7 +589,7 @@
     <string name="EmojiSavedHint">Emoji galereyaga saqlandi.</string>
     <string name="GifGallerySavedHint">GIF galereyaga saqlandi.</string>
     <string name="MutualContactInfo">Ushbu foydalanuvchining kontaktidasiz.</string>
-    <string name="LocalPremiumEmojiHint">Sizda **Telegram Premium** obunasi yoʻq, shuning uchun bu emojini faqat **exteraGram** foydalanuvchilari koʻra oladi.</string>
+    <string name="LocalPremiumEmojiHint">Sizda **Telegram Premium** obunasi yoʻq, shuning uchun bu emojini faqat **sleepygram** foydalanuvchilari koʻra oladi.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Kontaktlar yorligʻini yashirish</string>
     <string name="ShowContactsTab">Kontaktlar yorligʻini koʻrsatish</string>

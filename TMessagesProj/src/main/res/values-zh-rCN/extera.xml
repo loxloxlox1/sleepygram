@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram 设置</string>
+    <string name="Preferences">sleepygram 设置</string>
     <!-- Main Menu -->
     <string name="Links">链接</string>
     <string name="Crowdin">翻译</string>
     <string name="Website">官网</string>
     <string name="Categories">设置分类</string>
-    <string name="Developer">**%1$s** 是 **exteraGram** 开发团队的成员。</string>
-    <string name="DeveloperCompact">**exteraGram** 开发团队的成员。</string>
-    <string name="Supporter">**%1$s** 支持 **exteraGram** 的开发并获得专属徽章。</string>
-    <string name="OfficialChannel">**%1$s** 是 **exteraGram** 的官方社群。</string>
+    <string name="Developer">**%1$s** 是 **sleepygram** 开发团队的成员。</string>
+    <string name="DeveloperCompact">**sleepygram** 开发团队的成员。</string>
+    <string name="Supporter">**%1$s** 支持 **sleepygram** 的开发并获得专属徽章。</string>
+    <string name="OfficialChannel">**%1$s** 是 **sleepygram** 的官方社群。</string>
     <string name="NoSuchSetting">似乎不存在这种设置。</string>
     <string name="SettingLinkToSavedMessages">设置链接已发送至 **我的收藏**。</string>
     <string name="SettingLinkToUser">设置链接已发送至 **%1$s**。</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">天气</string>
     <string name="WeatherSettingsInfo">选择搜索栏中天气所用的位置获取方式。</string>
     <string name="WeatherLocation">位置检测</string>
-    <string name="WeatherLocationPermissionNo">exteraGram 需要访问您的位置以显示当前天气状况。</string>
+    <string name="WeatherLocationPermissionNo">sleepygram 需要访问您的位置以显示当前天气状况。</string>
     <string name="WeatherLocationPermissionGrant">授予权限</string>
     <string name="WeatherLocationServicesEnable">开启定位</string>
     <string name="WeatherPillTopInfo">堆叠胶囊中天气小部件的设置。</string>
@@ -638,7 +638,7 @@
     <string name="PauseOnMinimizeVideo">视频</string>
     <string name="PauseOnMinimizeVoice">语音</string>
     <string name="PauseOnMinimizeRound">圆环视频</string>
-    <string name="PauseOnMinimizeInfo">当设备锁定或 exteraGram 应用界面最小化时暂停媒体播放。</string>
+    <string name="PauseOnMinimizeInfo">当设备锁定或 sleepygram 应用界面最小化时暂停媒体播放。</string>
     <string name="SwipeToPip">滑动至画中画</string>
     <string name="UnmuteWithVolumeButtons">使用音量按钮取消视频静音</string>
     <string name="UnmuteWithVolumeButtonsInfo">按下音量键将取消视频静音而不是更改系统音量。</string>
@@ -666,8 +666,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">删除帐户</string>
     <string name="ResetSettings">重置设置</string>
-    <string name="ResetPreferences">**exteraGram** 设置已重置。</string>
-    <string name="ResetPreferencesInfo">您确定要重置 **所有的** exteraGram 设置至默认状态吗？</string>
+    <string name="ResetPreferences">**sleepygram** 设置已重置。</string>
+    <string name="ResetPreferencesInfo">您确定要重置 **所有的** sleepygram 设置至默认状态吗？</string>
     <!-- Donates -->
     <string name="SupportDevelopment">支持开发</string>
     <string name="SupportDevelopmentInfo">通过支持项目，您不仅可以为其开发做出贡献，还可以获得独特的徽章。</string>
@@ -680,11 +680,11 @@
     <string name="SupporterBadgeReset">恢复默认</string>
     <string name="SupporterBadgeName">箭头徽章 %1$s</string>
     <string name="SupporterBadgeNameCustom">徽章 %1$s</string>
-    <string name="SupporterOtherTitle">**%1$s** 支持 **exteraGram**</string>
+    <string name="SupporterOtherTitle">**%1$s** 支持 **sleepygram**</string>
     <string name="SupporterOtherSubtitle">支持者可获得以下权益：</string>
     <string name="SupporterHowToGet">如何获得</string>
     <string name="SupporterPerkBadge">编号徽章</string>
-    <string name="SupporterPerkBadgeInfo">名字旁带有您编号的徽章，所有 exteraGram 用户均可见。</string>
+    <string name="SupporterPerkBadgeInfo">名字旁带有您编号的徽章，所有 sleepygram 用户均可见。</string>
     <string name="SupporterPerkNowPlaying">正在播放</string>
     <string name="SupporterPerkNowPlayingInfo">在个人资料中展示您在 Last.fm 或 stats.fm 上正在播放的曲目。</string>
     <string name="SupporterPerkRegDate">注册日期</string>
@@ -715,10 +715,10 @@
     <string name="BoostyPeopleCount_few">%1$d 人</string>
     <string name="BoostyPeopleCount_many">%1$d 人</string>
     <string name="BoostyPeopleCount_other">%1$d 人</string>
-    <string name="BoostyInfo">积极支持 **Boosty** 上的 **ExteraGram** 。</string>
+    <string name="BoostyInfo">积极支持 **Boosty** 上的 **Sleepygram** 。</string>
     <string name="BoostyInfo2">感谢您的支持！</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">插件安装功能仅在 **exteraGram** **完整**版中可用。</string>
+    <string name="PluginsNotSupported">插件安装功能仅在 **sleepygram** **完整**版中可用。</string>
     <string name="Plugins">插件</string>
     <string name="PluginsEngine">插件引擎</string>
     <string name="EnablePluginsEngine">启用插件引擎</string>
@@ -739,7 +739,7 @@
     <string name="PluginCatalogChannelNotFound">未找到频道。</string>
     <string name="PluginCatalogGitRepository">Git 仓库</string>
     <string name="PluginCatalogGitLoadFailed">无法加载仓库，请检查链接后重试。</string>
-    <string name="PluginCatalogGitUnsupported">此仓库需要更新版本的 exteraGram。</string>
+    <string name="PluginCatalogGitUnsupported">此仓库需要更新版本的 sleepygram。</string>
     <string name="PluginCatalogOpenRepository">打开仓库</string>
     <string name="PluginCatalogRepositoryAdded">已将 **%1$s** 添加到仓库。</string>
     <string name="PluginCatalogRepositoryRemoved">已从仓库中移除 **%1$s**。</string>
@@ -965,7 +965,7 @@
     <string name="AreYouSureToLogin">您确定要在另一台设备上登录此帐户吗？</string>
     <!-- AdBlock -->
     <string name="PageBlocked">页面被阻止</string>
-    <string name="PageBlockedDescription">exteraGram 阻止了以下页面的加载：\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram 阻止了以下页面的加载：\n**%1$s**</string>
     <string name="PageBlockedGoBack">返回</string>
     <string name="BlockAds">拦截广告</string>
     <string name="BlockedRequests_one">已阻止 %1$d 个</string>
@@ -1001,7 +1001,7 @@
     <string name="EmojiSavedHint">Emoji 已保存到图库。</string>
     <string name="GifGallerySavedHint">GIF 已保存到图库。</string>
     <string name="MutualContactInfo">此为双向联系人。</string>
-    <string name="LocalPremiumEmojiHint">您没有 **Telegram Premium** 订阅，所以只有 **exteraGram** 用户可以看到此 emoji。</string>
+    <string name="LocalPremiumEmojiHint">您没有 **Telegram Premium** 订阅，所以只有 **sleepygram** 用户可以看到此 emoji。</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">隐藏联系人标签页</string>
     <string name="ShowContactsTab">显示联系人标签页</string>

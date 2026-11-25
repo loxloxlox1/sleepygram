@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram преференцес</string>
+    <string name="Preferences">sleepygram преференцес</string>
     <!-- Main Menu -->
     <string name="Links">Линкови</string>
     <string name="Crowdin">Преведи</string>
     <string name="Website">Веб-сајт</string>
     <string name="Categories">Категорије</string>
-    <string name="Developer">**%1$s** је члан развојног тима **exteraGram**.</string>
-    <string name="DeveloperCompact">Član **exteraGram** razvojnog tima.</string>
-    <string name="Supporter">**%1$s** је подржао развој **exteraGram** и добио је ексклузивну значку.</string>
-    <string name="OfficialChannel">**%1$s** је званични ресурс **exteraGram**</string>
+    <string name="Developer">**%1$s** је члан развојног тима **sleepygram**.</string>
+    <string name="DeveloperCompact">Član **sleepygram** razvojnog tima.</string>
+    <string name="Supporter">**%1$s** је подржао развој **sleepygram** и добио је ексклузивну значку.</string>
+    <string name="OfficialChannel">**%1$s** је званични ресурс **sleepygram**</string>
     <string name="NoSuchSetting">Изгледа да такво подешавање не постоји.</string>
     <string name="SettingLinkToSavedMessages">Link za podešavanje poslat u **Sačuvane poruke**.</string>
     <string name="SettingLinkToUser">Link za podešavanje poslat **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Vreme</string>
     <string name="WeatherSettingsInfo">Izaberite kako da se odredi lokacija za prikaz vremena u pretrazi.</string>
     <string name="WeatherLocation">Detekcija lokacije</string>
-    <string name="WeatherLocationPermissionNo">exteraGram-u je potreban pristup vašoj lokaciji da bi prikazao trenutno vreme.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram-u je potreban pristup vašoj lokaciji da bi prikazao trenutno vreme.</string>
     <string name="WeatherLocationPermissionGrant">Dozvoli pristup</string>
     <string name="WeatherLocationServicesEnable">Omogući lokaciju</string>
     <string name="WeatherPillTopInfo">Podešavanja widgeta za vreme za Gomilu dugmića.</string>
@@ -352,7 +352,7 @@
     <string name="PauseOnMinimize">Automatska pauza</string>
     <string name="PauseOnMinimizeVoice">Glas</string>
     <string name="PauseOnMinimizeRound">Kružno</string>
-    <string name="PauseOnMinimizeInfo">Pauzira reprodukciju medija kada je uređaj zaključan ili je exteraGram minimizovan.</string>
+    <string name="PauseOnMinimizeInfo">Pauzira reprodukciju medija kada je uređaj zaključan ili je sleepygram minimizovan.</string>
     <string name="SwipeToPip">Prevucite za PiP</string>
     <string name="UnmuteWithVolumeButtons">Uključi zvuk video zapisa dugmadima za jačinu</string>
     <string name="UnmuteWithVolumeButtonsInfo">Pritiskom na dugme za jačinu zvuka će se uključiti zvuk videa umesto promene sistemske jačine.</string>
@@ -380,8 +380,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Obriši nalog</string>
     <string name="ResetSettings">Resetuj podešavanja</string>
-    <string name="ResetPreferences">**exteraGram** podešavanja su resetovana.</string>
-    <string name="ResetPreferencesInfo">Da li ste sigurni da želite da resetujete **sva** exteraGram podešavanja na podrazumevana?</string>
+    <string name="ResetPreferences">**sleepygram** podešavanja su resetovana.</string>
+    <string name="ResetPreferencesInfo">Da li ste sigurni da želite da resetujete **sva** sleepygram podešavanja na podrazumevana?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Podrži razvoj</string>
     <string name="SupportDevelopmentInfo">Podržavanjem projekta ne samo da doprinosite njegovom razvoju već dobijate i jedinstvenu značku.</string>
@@ -398,10 +398,10 @@
     <string name="BoostyPeopleCount_few">%1$d osobe</string>
     <string name="BoostyPeopleCount_many">%1$d osoba</string>
     <string name="BoostyPeopleCount_other">%1$d osoba</string>
-    <string name="BoostyInfo">Aktivno podržite **exteraGram** na **Boosty**-ju.</string>
+    <string name="BoostyInfo">Aktivno podržite **sleepygram** na **Boosty**-ju.</string>
     <string name="BoostyInfo2">Hvala na podršci!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Instalacija dodataka je dostupna samo u **Full** verziji **exteraGram**-a.</string>
+    <string name="PluginsNotSupported">Instalacija dodataka je dostupna samo u **Full** verziji **sleepygram**-a.</string>
     <string name="Plugins">Dodaci</string>
     <string name="PluginsEngine">Pogon dodataka</string>
     <string name="EnablePluginsEngine">Omogući pogon dodataka</string>
@@ -492,7 +492,7 @@
     <string name="AreYouSureToLogin">Da li ste sigurni da želite da se prijavite na ovaj nalog na drugom uređaju?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Stranica blokirana</string>
-    <string name="PageBlockedDescription">exteraGram je sprečio učitavanje sledeće stranice:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram je sprečio učitavanje sledeće stranice:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Nazad</string>
     <!-- Other -->
     <string name="SetAsBadge">Postavi kao značku</string>
@@ -522,7 +522,7 @@
     <string name="EmojiSavedHint">Emoji sačuvan u galeriji.</string>
     <string name="GifGallerySavedHint">GIF sačuvan u galeriji.</string>
     <string name="MutualContactInfo">Ovaj kontakt je uzajaman.</string>
-    <string name="LocalPremiumEmojiHint">Nemate **Telegram Premium** pretplatu, pa će samo **exteraGram** korisnici moći da vide ovaj emoji.</string>
+    <string name="LocalPremiumEmojiHint">Nemate **Telegram Premium** pretplatu, pa će samo **sleepygram** korisnici moći da vide ovaj emoji.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Sakrij karticu Kontakti</string>
     <string name="ShowContactsTab">Prikaži karticu Kontakti</string>

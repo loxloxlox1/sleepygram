@@ -10,7 +10,7 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram 偏好設定</string>
+    <string name="Preferences">sleepygram 偏好設定</string>
     <!-- Main Menu -->
     <string name="Links">連結</string>
     <string name="Crowdin">翻譯</string>
@@ -138,8 +138,8 @@
     <string name="CopyID">複製使用者 ID</string>
     <!-- Other -->
     <string name="RestartRequired">重新啟動應用程式以生效。</string>
-    <string name="ResetPreferences">已重置 **exteraGram** 設定</string>
-    <string name="ResetPreferencesInfo">您確定要重置**所有**的 exteraGram 設定？</string>
+    <string name="ResetPreferences">已重置 **sleepygram** 設定</string>
+    <string name="ResetPreferencesInfo">您確定要重置**所有**的 sleepygram 設定？</string>
     <string name="UserNotFound">找不到該 **ID** 所對應的使用者。</string>
     <string name="PhotoCopied">圖片已複製到剪貼簿</string>
     <string name="MutualContactInfo">你們彼此有將對方加為聯絡人。</string>

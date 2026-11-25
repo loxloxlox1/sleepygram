@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram Ayarları</string>
+    <string name="Preferences">sleepygram Ayarları</string>
     <!-- Main Menu -->
     <string name="Links">Bağlantılar</string>
     <string name="Crowdin">Çeviriye Katkıda Bulun</string>
     <string name="Website">Web Sitesi</string>
     <string name="Categories">Kategoriler</string>
-    <string name="Developer">**%1$s**, **exteraGram** geliştirici ekibinin bir üyesidir.</string>
-    <string name="DeveloperCompact">**exteraGram** geliştirici ekibi üyesi.</string>
-    <string name="Supporter">**%1$s**, **exteraGram**\'ın gelişimine katkıda bulundu ve özel bir rozet kazandı.</string>
-    <string name="OfficialChannel">**%1$s**, resmî **exteraGram** kanalıdır.</string>
+    <string name="Developer">**%1$s**, **sleepygram** geliştirici ekibinin bir üyesidir.</string>
+    <string name="DeveloperCompact">**sleepygram** geliştirici ekibi üyesi.</string>
+    <string name="Supporter">**%1$s**, **sleepygram**\'ın gelişimine katkıda bulundu ve özel bir rozet kazandı.</string>
+    <string name="OfficialChannel">**%1$s**, resmî **sleepygram** kanalıdır.</string>
     <string name="NoSuchSetting">Görünüşe göre böyle bir ayar bulunamadı.</string>
     <string name="SettingLinkToSavedMessages">Ayar bağlantısı **Kayıtlı Mesajlar**\'a gönderildi.</string>
     <string name="SettingLinkToUser">Ayar bağlantısı **%1$s** kullanıcısına gönderildi.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Hava Durumu</string>
     <string name="WeatherSettingsInfo">Arama ekranında hava durumunun gösterileceği konumu nasıl belirleyeceğinizi seçin.</string>
     <string name="WeatherLocation">Konum Tespiti</string>
-    <string name="WeatherLocationPermissionNo">Güncel hava durumunu gösterebilmek için exteraGram\'ın konumunuza erişmesi gerekiyor.</string>
+    <string name="WeatherLocationPermissionNo">Güncel hava durumunu gösterebilmek için sleepygram\'ın konumunuza erişmesi gerekiyor.</string>
     <string name="WeatherLocationPermissionGrant">İzin Ver</string>
     <string name="WeatherLocationServicesEnable">Konumu Aç</string>
     <string name="WeatherPillTopInfo">Arama kapsülleri için hava durumu widget ayarları.</string>
@@ -431,7 +431,7 @@
     <string name="PauseOnMinimize">Arka Planda Duraklat</string>
     <string name="PauseOnMinimizeVoice">Ses Mesajı</string>
     <string name="PauseOnMinimizeRound">Görüntülü Mesaj</string>
-    <string name="PauseOnMinimizeInfo">Ekran kilitlendiğinde veya exteraGram simge durumuna küçültüldüğünde oynatmayı otomatik duraklatır.</string>
+    <string name="PauseOnMinimizeInfo">Ekran kilitlendiğinde veya sleepygram simge durumuna küçültüldüğünde oynatmayı otomatik duraklatır.</string>
     <string name="SwipeToPip">Kaydırarak PiP Moduna Geç</string>
     <string name="UnmuteWithVolumeButtons">Ses Tuşlarıyla Videonun Sesini Aç</string>
     <string name="UnmuteWithVolumeButtonsInfo">Ses tuşuna basıldığında cihazın sesini değiştirmek yerine videonun sesini açar.</string>
@@ -459,8 +459,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Hesabı Sil</string>
     <string name="ResetSettings">Ayarları Sıfırla</string>
-    <string name="ResetPreferences">**exteraGram** tercihleri sıfırlandı.</string>
-    <string name="ResetPreferencesInfo">**Tüm** exteraGram tercihlerini varsayılan değerlerine döndürmek istediğinize emin misiniz?</string>
+    <string name="ResetPreferences">**sleepygram** tercihleri sıfırlandı.</string>
+    <string name="ResetPreferencesInfo">**Tüm** sleepygram tercihlerini varsayılan değerlerine döndürmek istediğinize emin misiniz?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Geliştirmeyi Destekle</string>
     <string name="SupportDevelopmentInfo">Projeye destek olarak yalnızca gelişimine katkı sağlamakla kalmaz, aynı zamanda profiliniz için özel bir rozet kazanırsınız.</string>
@@ -477,10 +477,10 @@
     <string name="BoostyPeopleCount_few">%1$d kişi</string>
     <string name="BoostyPeopleCount_many">%1$d kişi</string>
     <string name="BoostyPeopleCount_other">%1$d kişi</string>
-    <string name="BoostyInfo">**Boosty** üzerinden **exteraGram**\'a gönülden destek olanlar.</string>
+    <string name="BoostyInfo">**Boosty** üzerinden **sleepygram**\'a gönülden destek olanlar.</string>
     <string name="BoostyInfo2">Desteğiniz için teşekkür ederiz!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Eklenti kurulumu yalnızca **exteraGram**\'ın **Full** sürümünde kullanılabilir.</string>
+    <string name="PluginsNotSupported">Eklenti kurulumu yalnızca **sleepygram**\'ın **Full** sürümünde kullanılabilir.</string>
     <string name="Plugins">Eklentiler</string>
     <string name="PluginsEngine">Eklenti Motoru</string>
     <string name="EnablePluginsEngine">Eklenti Motorunu Aç</string>
@@ -596,7 +596,7 @@
     <string name="AreYouSureToLogin">Bu hesaba başka bir cihazdan giriş yapmak istediğinize emin misiniz?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Sayfa engellendi</string>
-    <string name="PageBlockedDescription">exteraGram şu sayfanın açılmasını engelledi:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram şu sayfanın açılmasını engelledi:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Geri dön</string>
     <string name="BlockAds">Reklamları Engelle</string>
     <string name="BlockedRequests_one">%1$d istek engellendi</string>
@@ -633,7 +633,7 @@
     <string name="EmojiSavedHint">Emoji galeriye kaydedildi.</string>
     <string name="GifGallerySavedHint">GIF galeriye kaydedildi.</string>
     <string name="MutualContactInfo">Bu kişiyle birbirinizin rehberinde ekli durumdasınız.</string>
-    <string name="LocalPremiumEmojiHint">**Telegram Premium** aboneliğiniz olmadığı için bu emojiyi yalnızca diğer **exteraGram** kullanıcıları görebilir.</string>
+    <string name="LocalPremiumEmojiHint">**Telegram Premium** aboneliğiniz olmadığı için bu emojiyi yalnızca diğer **sleepygram** kullanıcıları görebilir.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Kişiler Sekmesini Gizle</string>
     <string name="ShowContactsTab">Kişiler Sekmesini Göster</string>

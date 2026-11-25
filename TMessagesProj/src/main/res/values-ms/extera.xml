@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">Keutamaan exteraGram</string>
+    <string name="Preferences">Keutamaan sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Pautan</string>
     <string name="Crowdin">Terjemah</string>
     <string name="Website">Laman Sesawang</string>
     <string name="Categories">Kategori</string>
-    <string name="Developer">**%1$s** adalah ahli pasukan pembangunan **exteraGram**.</string>
-    <string name="DeveloperCompact">Ahli pasukan pembangun **exteraGram**.</string>
-    <string name="Supporter">**%1$s** menyokong pembangunan **exteraGram** dan menerima lencana unik.</string>
-    <string name="OfficialChannel">**%1$s** adalah sumber rasmi **exteraGram**.</string>
+    <string name="Developer">**%1$s** adalah ahli pasukan pembangunan **sleepygram**.</string>
+    <string name="DeveloperCompact">Ahli pasukan pembangun **sleepygram**.</string>
+    <string name="Supporter">**%1$s** menyokong pembangunan **sleepygram** dan menerima lencana unik.</string>
+    <string name="OfficialChannel">**%1$s** adalah sumber rasmi **sleepygram**.</string>
     <string name="NoSuchSetting">Nampaknya, tetapan sebegitu tidak wujud.</string>
     <string name="SettingLinkToSavedMessages">Pautan tetapan dihantar ke **Mesej Disimpan**.</string>
     <string name="SettingLinkToUser">Pautan tetapan dihantar ke **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Cuaca</string>
     <string name="WeatherSettingsInfo">Pilih cara menentukan lokasi untuk paparan cuaca dalam carian.</string>
     <string name="WeatherLocation">Pengesanan Lokasi</string>
-    <string name="WeatherLocationPermissionNo">exteraGram memerlukan akses ke lokasi anda untuk memaparkan cuaca semasa.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram memerlukan akses ke lokasi anda untuk memaparkan cuaca semasa.</string>
     <string name="WeatherLocationPermissionGrant">Beri Kebenaran</string>
     <string name="WeatherLocationServicesEnable">Dayakan Lokasi</string>
     <string name="WeatherPillTopInfo">Tetapan widget cuaca untuk Tindanan Pil.</string>
@@ -350,7 +350,7 @@
     <string name="PauseOnMinimize">Jeda Automatik</string>
     <string name="PauseOnMinimizeVoice">Suara</string>
     <string name="PauseOnMinimizeRound">Bulat</string>
-    <string name="PauseOnMinimizeInfo">Menjeda main balik media apabila peranti dikunci atau exteraGram diminimumkan.</string>
+    <string name="PauseOnMinimizeInfo">Menjeda main balik media apabila peranti dikunci atau sleepygram diminimumkan.</string>
     <string name="SwipeToPip">Leret ke PiP</string>
     <string name="UnmuteWithVolumeButtons">Nyahsenyap Video dengan Butang Volume</string>
     <string name="UnmuteWithVolumeButtonsInfo">Menekan butang volume akan menyahsenyap video dan bukannya menukar volume sistem.</string>
@@ -378,8 +378,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Padam Akaun</string>
     <string name="ResetSettings">Tetapkan Semula Tetapan</string>
-    <string name="ResetPreferences">Keutamaan **exteraGram** telah ditetapkan semula.</string>
-    <string name="ResetPreferencesInfo">Adakah anda pasti mahu menetapkan semula **semua** keutamaan exteraGram kepada lalai?</string>
+    <string name="ResetPreferences">Keutamaan **sleepygram** telah ditetapkan semula.</string>
+    <string name="ResetPreferencesInfo">Adakah anda pasti mahu menetapkan semula **semua** keutamaan sleepygram kepada lalai?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Sokong Pembangunan</string>
     <string name="SupportDevelopmentInfo">Dengan menyokong projek ini, anda bukan sahaja menyumbang kepada pembangunannya tetapi juga mendapat lencana unik.</string>
@@ -396,10 +396,10 @@
     <string name="BoostyPeopleCount_few">%1$d orang</string>
     <string name="BoostyPeopleCount_many">%1$d orang</string>
     <string name="BoostyPeopleCount_other">%1$d orang</string>
-    <string name="BoostyInfo">Sokong secara aktif **exteraGram** di **Boosty**.</string>
+    <string name="BoostyInfo">Sokong secara aktif **sleepygram** di **Boosty**.</string>
     <string name="BoostyInfo2">Terima kasih atas sokongan anda!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Pemasangan plugin hanya tersedia dalam versi **Penuh** **exteraGram**.</string>
+    <string name="PluginsNotSupported">Pemasangan plugin hanya tersedia dalam versi **Penuh** **sleepygram**.</string>
     <string name="Plugins">Plugin</string>
     <string name="PluginsEngine">Enjin Plugin</string>
     <string name="EnablePluginsEngine">Dayakan Enjin Plugin</string>
@@ -490,7 +490,7 @@
     <string name="AreYouSureToLogin">Adakah anda pasti mahu log masuk ke akaun ini pada peranti lain?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Halaman disekat</string>
-    <string name="PageBlockedDescription">exteraGram telah menghalang halaman berikut daripada dimuatkan:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram telah menghalang halaman berikut daripada dimuatkan:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Kembali</string>
     <!-- Other -->
     <string name="SetAsBadge">Tetapkan sebagai Lencana</string>
@@ -520,7 +520,7 @@
     <string name="EmojiSavedHint">Emoji disimpan ke galeri.</string>
     <string name="GifGallerySavedHint">GIF disimpan ke galeri.</string>
     <string name="MutualContactInfo">Hubungan ini adalah bersama.</string>
-    <string name="LocalPremiumEmojiHint">Anda tidak mempunyai langganan **Telegram Premium**, jadi hanya pengguna **exteraGram** yang akan dapat melihat emoji ini.</string>
+    <string name="LocalPremiumEmojiHint">Anda tidak mempunyai langganan **Telegram Premium**, jadi hanya pengguna **sleepygram** yang akan dapat melihat emoji ini.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Sembunyi Tab Kenalan</string>
     <string name="ShowContactsTab">Tunjuk Tab Kenalan</string>

@@ -14,10 +14,10 @@
     <string name="Crowdin">Немецкий </string>
     <string name="Website">웹 사이트</string>
     <string name="Categories">범주</string>
-    <string name="Developer">**%1$s**님은 **exteraGram** 개발 팀의 멤버입니다.</string>
-    <string name="DeveloperCompact">**exteraGram** 개발 팀의 멤버입니다.</string>
-    <string name="Supporter">**%1$s**님은 **exteraGram**의 개발을 지원해주셨기에 특별한 배지를 받으셨습니다.</string>
-    <string name="OfficialChannel">**%1$s**은(는) **exteraGram**의 공식 리소스입니다.</string>
+    <string name="Developer">**%1$s**님은 **sleepygram** 개발 팀의 멤버입니다.</string>
+    <string name="DeveloperCompact">**sleepygram** 개발 팀의 멤버입니다.</string>
+    <string name="Supporter">**%1$s**님은 **sleepygram**의 개발을 지원해주셨기에 특별한 배지를 받으셨습니다.</string>
+    <string name="OfficialChannel">**%1$s**은(는) **sleepygram**의 공식 리소스입니다.</string>
     <string name="NoSuchSetting">그런 설정은 없는 것 같습니다.</string>
     <string name="SettingLinkToSavedMessages">설정 링크가 **저장된 메시지**로 전송되었습니다.</string>
     <string name="SettingLinkToUser">설정 링크가 **%1$s**로 전송되었습니다.</string>
@@ -35,7 +35,7 @@
     <string name="WeatherPill">날씨</string>
     <string name="WeatherSettingsInfo">검색에서 날씨 표시를 위한 위치 결정 방법을 선택하세요.</string>
     <string name="WeatherLocation">위치 감지</string>
-    <string name="WeatherLocationPermissionNo">현재 날씨를 표시하려면 exteraGram이 위치에 접근해야 합니다.</string>
+    <string name="WeatherLocationPermissionNo">현재 날씨를 표시하려면 sleepygram이 위치에 접근해야 합니다.</string>
     <string name="WeatherLocationPermissionGrant">권한 부여</string>
     <string name="WeatherLocationServicesEnable">위치 활성화</string>
     <string name="WeatherPillTopInfo">Pill Stack을 위한 날씨 위젯 설정.</string>
@@ -357,7 +357,7 @@
     <string name="PauseOnMinimizeVideo">비디오</string>
     <string name="PauseOnMinimizeVoice">음성</string>
     <string name="PauseOnMinimizeRound">원형</string>
-    <string name="PauseOnMinimizeInfo">기기가 잠기거나 exteraGram이 최소화되면 미디어 재생을 일시 중지합니다.</string>
+    <string name="PauseOnMinimizeInfo">기기가 잠기거나 sleepygram이 최소화되면 미디어 재생을 일시 중지합니다.</string>
     <string name="SwipeToPip">스와이프로 PiP</string>
     <string name="UnmuteWithVolumeButtons">볼륨 버튼으로 비디오 음소거 해제</string>
     <string name="UnmuteWithVolumeButtonsInfo">볼륨 버튼을 누르면 시스템 볼륨을 변경하는 대신 비디오 음소거가 해제됩니다.</string>
@@ -385,8 +385,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">계정 삭제</string>
     <string name="ResetSettings">설정 재설정</string>
-    <string name="ResetPreferences">**exteraGram** 기본 설정이 재설정되었습니다.</string>
-    <string name="ResetPreferencesInfo">**모든** exteraGram 기본 설정을 기본값으로 재설정하시겠습니까?</string>
+    <string name="ResetPreferences">**sleepygram** 기본 설정이 재설정되었습니다.</string>
+    <string name="ResetPreferencesInfo">**모든** sleepygram 기본 설정을 기본값으로 재설정하시겠습니까?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">개발 지원</string>
     <string name="SupportDevelopmentInfo">프로젝트를 지원하면 개발에 기여할 뿐만 아니라 고유한 배지를 받을 수 있습니다.</string>
@@ -403,10 +403,10 @@
     <string name="BoostyPeopleCount_few">%1$d명</string>
     <string name="BoostyPeopleCount_many">%1$d명</string>
     <string name="BoostyPeopleCount_other">%1$d명</string>
-    <string name="BoostyInfo">**Boosty**에서 **exteraGram**을 적극적으로 지원하세요.</string>
+    <string name="BoostyInfo">**Boosty**에서 **sleepygram**을 적극적으로 지원하세요.</string>
     <string name="BoostyInfo2">지원해 주셔서 감사합니다!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">플러그인 설치는 **exteraGram**의 **풀** 버전에서만 가능합니다.</string>
+    <string name="PluginsNotSupported">플러그인 설치는 **sleepygram**의 **풀** 버전에서만 가능합니다.</string>
     <string name="Plugins">플러그인</string>
     <string name="PluginsEngine">플러그인 엔진</string>
     <string name="EnablePluginsEngine">플러그인 엔진 활성화</string>
@@ -499,7 +499,7 @@
     <string name="AreYouSureToLogin">다른 기기에서 이 계정에 로그인하시겠습니까?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">페이지 차단됨</string>
-    <string name="PageBlockedDescription">exteraGram이 다음 페이지 로드를 차단했습니다:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram이 다음 페이지 로드를 차단했습니다:\n**%1$s**</string>
     <string name="PageBlockedGoBack">뒤로 가기</string>
     <!-- Other -->
     <string name="SetAsBadge">배지로 설정</string>
@@ -529,7 +529,7 @@
     <string name="EmojiSavedHint">이모지가 갤러리에 저장되었습니다.</string>
     <string name="GifGallerySavedHint">GIF가 갤러리에 저장되었습니다.</string>
     <string name="MutualContactInfo">이 연락처는 상호 연락처입니다.</string>
-    <string name="LocalPremiumEmojiHint">**Telegram Premium** 구독이 없으므로 **exteraGram** 사용자만 이 이모지를 볼 수 있습니다.</string>
+    <string name="LocalPremiumEmojiHint">**Telegram Premium** 구독이 없으므로 **sleepygram** 사용자만 이 이모지를 볼 수 있습니다.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">연락처 탭 숨기기</string>
     <string name="ShowContactsTab">연락처 탭 표시</string>

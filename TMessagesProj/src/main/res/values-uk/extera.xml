@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">Налаштування exteraGram</string>
+    <string name="Preferences">Налаштування sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Посилання</string>
     <string name="Crowdin">Переклад</string>
     <string name="Website">Вебсайт</string>
     <string name="Categories">Категорії</string>
-    <string name="Developer">**%1$s** є членом команди розробників **exteraGram**.</string>
-    <string name="DeveloperCompact">Учасник команди розробників **exteraGram**.</string>
-    <string name="Supporter">**%1$s** підтримав(ла) розробку **exteraGram** та отримав(ла) унікальний значок.</string>
-    <string name="OfficialChannel">**%1$s** — офіційний ресурс **exteraGram**.</string>
+    <string name="Developer">**%1$s** є членом команди розробників **sleepygram**.</string>
+    <string name="DeveloperCompact">Учасник команди розробників **sleepygram**.</string>
+    <string name="Supporter">**%1$s** підтримав(ла) розробку **sleepygram** та отримав(ла) унікальний значок.</string>
+    <string name="OfficialChannel">**%1$s** — офіційний ресурс **sleepygram**.</string>
     <string name="NoSuchSetting">Такого налаштування не існує.</string>
     <string name="SettingLinkToSavedMessages">Посилання на налаштування відправлено у **Збережене**.</string>
     <string name="SettingLinkToUser">Посилання на налаштування відправлено до **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Погода</string>
     <string name="WeatherSettingsInfo">Виберіть спосіб визначення розташування для отримання даних о погоді.</string>
     <string name="WeatherLocation">Визначення розташування</string>
-    <string name="WeatherLocationPermissionNo">Для показу погоди exteraGram потребує доступ до вашої геолокації.</string>
+    <string name="WeatherLocationPermissionNo">Для показу погоди sleepygram потребує доступ до вашої геолокації.</string>
     <string name="WeatherLocationPermissionGrant">Надати дозвіл</string>
     <string name="WeatherLocationServicesEnable">Увімкнути геолокацію</string>
     <string name="WeatherPillTopInfo">Налаштування віджета погоди для Pill Stack.</string>
@@ -651,8 +651,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Видалити акаунт</string>
     <string name="ResetSettings">Скинути налаштування</string>
-    <string name="ResetPreferences">Налаштування **exteraGram** скинуто.</string>
-    <string name="ResetPreferencesInfo">Ви впевнені, що хочете скинути **всі** налаштування exteraGram до значень за замовчуванням?</string>
+    <string name="ResetPreferences">Налаштування **sleepygram** скинуто.</string>
+    <string name="ResetPreferencesInfo">Ви впевнені, що хочете скинути **всі** налаштування sleepygram до значень за замовчуванням?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Підтримати розробку</string>
     <string name="SupportDevelopmentInfo">Підтримуючи проєкт, ви не тільки сприяєте його розвитку, але й отримуєте унікальний значок.</string>
@@ -669,10 +669,10 @@
     <string name="BoostyPeopleCount_few">%1$d людини</string>
     <string name="BoostyPeopleCount_many">%1$d людей</string>
     <string name="BoostyPeopleCount_other">%1$d людей</string>
-    <string name="BoostyInfo">Активно підтримують **exteraGram** на **Boosty**.</string>
+    <string name="BoostyInfo">Активно підтримують **sleepygram** на **Boosty**.</string>
     <string name="BoostyInfo2">Дякую за вашу підтримку!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Встановлення плагінів доступне лише в **Full**-версії **exteraGram**.</string>
+    <string name="PluginsNotSupported">Встановлення плагінів доступне лише в **Full**-версії **sleepygram**.</string>
     <string name="Plugins">Плагіни</string>
     <string name="PluginsEngine">Система плагінів</string>
     <string name="EnablePluginsEngine">Увімкнути систему плагінів</string>
@@ -911,7 +911,7 @@
     <string name="AreYouSureToLogin">Ви впевнені, що хочете увійти в цей акаунт на іншому пристрої?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Сторінка заблокована</string>
-    <string name="PageBlockedDescription">exteraGram зупинив завантаження сторінки:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram зупинив завантаження сторінки:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Назад</string>
     <string name="BlockAds">Блокування реклами</string>
     <string name="BlockedRequests_one">%1$d заблокований</string>
@@ -947,7 +947,7 @@
     <string name="EmojiSavedHint">Емодзі збережено до галереї.</string>
     <string name="GifGallerySavedHint">GIF збережено до галереї.</string>
     <string name="MutualContactInfo">Цей контакт є взаємним.</string>
-    <string name="LocalPremiumEmojiHint">У вас немає підписки **Telegram Premium**, тому цю емодзі зможуть бачити лише користувачі **exteraGram**.</string>
+    <string name="LocalPremiumEmojiHint">У вас немає підписки **Telegram Premium**, тому цю емодзі зможуть бачити лише користувачі **sleepygram**.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Приховати вкладку «Контакти»</string>
     <string name="ShowContactsTab">Показати вкладку «Контакти»</string>

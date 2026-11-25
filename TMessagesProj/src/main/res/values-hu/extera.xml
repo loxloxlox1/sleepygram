@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram beállítások</string>
+    <string name="Preferences">sleepygram beállítások</string>
     <!-- Main Menu -->
     <string name="Links">Linkek</string>
     <string name="Crowdin">Fordítás</string>
     <string name="Website">Weboldal</string>
     <string name="Categories">Kategóriák</string>
-    <string name="Developer">**%1$s** tagja az **exteraGram** fejlesztői csapatának.</string>
-    <string name="DeveloperCompact">Az **exteraGram** fejlesztői csapatának tagja.</string>
-    <string name="Supporter">**%1$s** támogatta az **exteraGram** fejlesztését, és egyedi jelvényt kapott.</string>
-    <string name="OfficialChannel">**%1$s** az **exteraGram** hivatalos forrása.</string>
+    <string name="Developer">**%1$s** tagja az **sleepygram** fejlesztői csapatának.</string>
+    <string name="DeveloperCompact">Az **sleepygram** fejlesztői csapatának tagja.</string>
+    <string name="Supporter">**%1$s** támogatta az **sleepygram** fejlesztését, és egyedi jelvényt kapott.</string>
+    <string name="OfficialChannel">**%1$s** az **sleepygram** hivatalos forrása.</string>
     <string name="NoSuchSetting">Úgy tűnik, hogy ilyen beállítás nem létezik.</string>
     <string name="SettingLinkToSavedMessages">Beállítási hivatkozás elküldve a **Mentett üzenetek**-be.</string>
     <string name="SettingLinkToUser">Beállítási hivatkozás elküldve **%1$s**-nek.</string>
@@ -36,7 +36,7 @@
     <string name="WeatherPill">Időjárás</string>
     <string name="WeatherSettingsInfo">Válaszd ki, hogyan határozd meg a helyet az időjárás megjelenítéséhez a keresésben.</string>
     <string name="WeatherLocation">Helymeghatározás</string>
-    <string name="WeatherLocationPermissionNo">Az exteraGram hozzáférést igényel a helyzetedhez az aktuális időjárás megjelenítéséhez.</string>
+    <string name="WeatherLocationPermissionNo">Az sleepygram hozzáférést igényel a helyzetedhez az aktuális időjárás megjelenítéséhez.</string>
     <string name="WeatherLocationPermissionGrant">Engedély megadása</string>
     <string name="WeatherLocationServicesEnable">Hely engedélyezése</string>
     <string name="WeatherPillTopInfo">Időjárás-widget beállítások a Pill Stack-hez.</string>
@@ -356,7 +356,7 @@
     <string name="PauseOnMinimizeVideo">Videó</string>
     <string name="PauseOnMinimizeVoice">Hang</string>
     <string name="PauseOnMinimizeRound">Kör</string>
-    <string name="PauseOnMinimizeInfo">Szünetelteti a média lejátszását, amikor az eszköz zárolva van, vagy az exteraGram minimalizálva van.</string>
+    <string name="PauseOnMinimizeInfo">Szünetelteti a média lejátszását, amikor az eszköz zárolva van, vagy az sleepygram minimalizálva van.</string>
     <string name="SwipeToPip">Csúsztatás a kép a képben módhoz</string>
     <string name="UnmuteWithVolumeButtons">Videók némításának feloldása a hangerőgombokkal</string>
     <string name="UnmuteWithVolumeButtonsInfo">A hangerőgomb megnyomása feloldja a videó némítását a rendszer hangerő módosítása helyett.</string>
@@ -384,8 +384,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Fiók törlése</string>
     <string name="ResetSettings">Beállítások visszaállítása</string>
-    <string name="ResetPreferences">Az **exteraGram** beállítások visszaállításra kerültek.</string>
-    <string name="ResetPreferencesInfo">Biztosan vissza szeretnéd állítani az **összes** exteraGram beállítást az alapértelmezettre?</string>
+    <string name="ResetPreferences">Az **sleepygram** beállítások visszaállításra kerültek.</string>
+    <string name="ResetPreferencesInfo">Biztosan vissza szeretnéd állítani az **összes** sleepygram beállítást az alapértelmezettre?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Fejlesztés támogatása</string>
     <string name="SupportDevelopmentInfo">A projekt támogatásával nemcsak a fejlesztéséhez járulsz hozzá, hanem egyedi jelvényt is kapsz.</string>
@@ -402,10 +402,10 @@
     <string name="BoostyPeopleCount_few">%1$d fő</string>
     <string name="BoostyPeopleCount_many">%1$d fő</string>
     <string name="BoostyPeopleCount_other">%1$d fő</string>
-    <string name="BoostyInfo">Aktívan támogasd az **exteraGram**-ot a **Boosty**-n.</string>
+    <string name="BoostyInfo">Aktívan támogasd az **sleepygram**-ot a **Boosty**-n.</string>
     <string name="BoostyInfo2">Köszönjük a támogatásodat!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">A bővítmény telepítése csak az **exteraGram** **Teljes** verziójában érhető el.</string>
+    <string name="PluginsNotSupported">A bővítmény telepítése csak az **sleepygram** **Teljes** verziójában érhető el.</string>
     <string name="Plugins">Bővítmények</string>
     <string name="PluginsEngine">Bővítmény motor</string>
     <string name="EnablePluginsEngine">Bővítmény motor engedélyezése</string>
@@ -497,7 +497,7 @@
     <string name="AreYouSureToLogin">Biztosan be szeretnél jelentkezni ebbe a fiókba egy másik eszközön?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Oldal blokkolva</string>
-    <string name="PageBlockedDescription">Az exteraGram megakadályozta a következő oldal betöltését:\n**%1$s**</string>
+    <string name="PageBlockedDescription">Az sleepygram megakadályozta a következő oldal betöltését:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Vissza</string>
     <!-- Other -->
     <string name="SetAsBadge">Beállítás jelvényként</string>
@@ -527,7 +527,7 @@
     <string name="EmojiSavedHint">Emoji mentve a galériába.</string>
     <string name="GifGallerySavedHint">GIF mentve a galériába.</string>
     <string name="MutualContactInfo">Ez a kapcsolat kölcsönös.</string>
-    <string name="LocalPremiumEmojiHint">Nincs **Telegram Premium** előfizetésed, így csak az **exteraGram** felhasználók láthatják ezt az emojit.</string>
+    <string name="LocalPremiumEmojiHint">Nincs **Telegram Premium** előfizetésed, így csak az **sleepygram** felhasználók láthatják ezt az emojit.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Névjegyek fül elrejtése</string>
     <string name="ShowContactsTab">Névjegyek fül megjelenítése</string>

@@ -10,7 +10,7 @@
 
 -->
 <resources>
-    <string name="Preferences">تفضيلات exteraGram</string>
+    <string name="Preferences">تفضيلات sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">الروابط</string>
     <string name="Crowdin">تَرْجَمَة</string>
@@ -35,7 +35,7 @@
     <string name="WeatherSettingsInfo">اختر كيفية تحديد الموقع لعرض الطقس في  البحت </string>
     <string name="WeatherLocation">اكتشاف الموقع </string>
     <string name="WeatherLocationPermissionNo">
-يحتاج تطبيق exteraGram إلى الوصول إلى موقعك لعرض الطقس الحالي</string>
+يحتاج تطبيق sleepygram إلى الوصول إلى موقعك لعرض الطقس الحالي</string>
     <string name="WeatherLocationPermissionGrant">منح الادن </string>
     <string name="WeatherLocationServicesEnable">تفعيل الموقع </string>
     <string name="WeatherPillTopInfo">اعدادات التطبيقات المصغرة ل مدكس بيل </string>
@@ -298,10 +298,10 @@
     <string name="BoostyPeopleCount_few">%1$d أشخاص</string>
     <string name="BoostyPeopleCount_many">%1$d شخص</string>
     <string name="BoostyPeopleCount_other">%1$d شخص</string>
-    <string name="BoostyInfo">ادعم **exteraGram** بنشاط على **Boosty**.</string>
+    <string name="BoostyInfo">ادعم **sleepygram** بنشاط على **Boosty**.</string>
     <string name="BoostyInfo2">شكراً لدعمك!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">تثبيت الإضافات متاح فقط في النسخة **الكاملة** من **exteraGram**.</string>
+    <string name="PluginsNotSupported">تثبيت الإضافات متاح فقط في النسخة **الكاملة** من **sleepygram**.</string>
     <string name="PluginsEngine">محرك الإضافات</string>
     <string name="EnablePluginsEngine">تمكين محرك الإضافات</string>
     <string name="PluginDisableError">فشل في تعطيل **%1$s**.</string>
@@ -373,7 +373,7 @@
     <string name="TapToCopy">اضغط للنسخ</string>
     <string name="ProfileUsesEmojiPack">يستخدم هذا الملف الشخصي إيموجي من حزمة %s لخلفيته.</string>
     <string name="GifGallerySavedHint">تم حفظ GIF في المعرض.</string>
-    <string name="LocalPremiumEmojiHint">ليس لديك اشتراك **Telegram Premium**، لذلك سيتمكن مستخدمو **exteraGram** فقط من رؤية هذا الإيموجي.</string>
+    <string name="LocalPremiumEmojiHint">ليس لديك اشتراك **Telegram Premium**، لذلك سيتمكن مستخدمو **sleepygram** فقط من رؤية هذا الإيموجي.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">إخفاء علامة تبويب جهات الاتصال</string>
     <string name="ShowContactsTab">إظهار علامة تبويب جهات الاتصال</string>

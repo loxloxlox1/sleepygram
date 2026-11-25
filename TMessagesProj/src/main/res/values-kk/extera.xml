@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram Параметрлері</string>
+    <string name="Preferences">sleepygram Параметрлері</string>
     <!-- Main Menu -->
     <string name="Links">Сілтемелер</string>
     <string name="Crowdin">Аударма</string>
     <string name="Website">Веб-сайт</string>
     <string name="Categories">Санаттар</string>
-    <string name="Developer">**%1$s** exteraGram әзірлеу тобының мүшесі.</string>
-    <string name="DeveloperCompact">**exteraGram** әзірлеу тобының мүшесі.</string>
-    <string name="Supporter">**%1$s** exteraGram әзірлеуін қолдады және эксклюзивті белгіше алды.</string>
-    <string name="OfficialChannel">**%1$s** exteraGram-ның ресми ресурсы.</string>
+    <string name="Developer">**%1$s** sleepygram әзірлеу тобының мүшесі.</string>
+    <string name="DeveloperCompact">**sleepygram** әзірлеу тобының мүшесі.</string>
+    <string name="Supporter">**%1$s** sleepygram әзірлеуін қолдады және эксклюзивті белгіше алды.</string>
+    <string name="OfficialChannel">**%1$s** sleepygram-ның ресми ресурсы.</string>
     <string name="NoSuchSetting">Мұндай параметр жоқ сияқты.</string>
     <string name="SettingLinkToSavedMessages">**Сақталған хабарламаларға** сілтеме жіберілді.</string>
     <string name="SettingLinkToUser">**%1$s** пайдаланушысына сілтеме жіберілді.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Ауа райы</string>
     <string name="WeatherSettingsInfo">Іздеуде ауа райын көрсету үшін орналасуды анықтау тәсілін таңдаңыз.</string>
     <string name="WeatherLocation">Орналасуды анықтау</string>
-    <string name="WeatherLocationPermissionNo">Ағымдағы ауа райын көрсету үшін exteraGram сіздің орналасуыңызға рұқсат қажет.</string>
+    <string name="WeatherLocationPermissionNo">Ағымдағы ауа райын көрсету үшін sleepygram сіздің орналасуыңызға рұқсат қажет.</string>
     <string name="WeatherLocationPermissionGrant">Рұқсат беру</string>
     <string name="WeatherLocationServicesEnable">Орналасуды қосу</string>
     <string name="WeatherPillTopInfo">Pill Stack үшін ауа райы виджетінің параметрлері.</string>
@@ -362,7 +362,7 @@
     <string name="PauseOnMinimizeVideo">Бейне</string>
     <string name="PauseOnMinimizeVoice">Дауыс</string>
     <string name="PauseOnMinimizeRound">Дөңгелек</string>
-    <string name="PauseOnMinimizeInfo">Құрылғы құлыпталғанда немесе exteraGram азайтылғанда медиа ойнатуды тоқтатады.</string>
+    <string name="PauseOnMinimizeInfo">Құрылғы құлыпталғанда немесе sleepygram азайтылғанда медиа ойнатуды тоқтатады.</string>
     <string name="SwipeToPip">PiP-ке сырғанау</string>
     <string name="UnmuteWithVolumeButtons">Бейнені дыбыс түймелерімен дыбыстап қосу</string>
     <string name="UnmuteWithVolumeButtonsInfo">Дыбыс түймесін басқан жүйе дыбысын өзгертпей, бейнені дыбыстап қояды.</string>
@@ -390,8 +390,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Аккаунтты жою</string>
     <string name="ResetSettings">Параметрлерді қалпына келтіру</string>
-    <string name="ResetPreferences">**exteraGram** параметрлері қалпына келтірілді.</string>
-    <string name="ResetPreferencesInfo">**Барлық** exteraGram параметрлерін әдепкі күйге қалпына келтіруге сенімдісіз бе?</string>
+    <string name="ResetPreferences">**sleepygram** параметрлері қалпына келтірілді.</string>
+    <string name="ResetPreferencesInfo">**Барлық** sleepygram параметрлерін әдепкі күйге қалпына келтіруге сенімдісіз бе?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Әзірлеуді қолдау</string>
     <string name="SupportDevelopmentInfo">Жобаны қолдау арқылы оның дамуына үлес қосасыз және бірегей белгіше аласыз.</string>
@@ -408,10 +408,10 @@
     <string name="BoostyPeopleCount_few">%1$d адам</string>
     <string name="BoostyPeopleCount_many">%1$d адам</string>
     <string name="BoostyPeopleCount_other">%1$d адам</string>
-    <string name="BoostyInfo">**exteraGram**-ды **Boosty**-де белсенді қолдаңыз.</string>
+    <string name="BoostyInfo">**sleepygram**-ды **Boosty**-де белсенді қолдаңыз.</string>
     <string name="BoostyInfo2">Қолдауыңыз үшін рахмет!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Плагиндерді орнату **exteraGram** **Толық** нұсқасында ғана қолжетімді.</string>
+    <string name="PluginsNotSupported">Плагиндерді орнату **sleepygram** **Толық** нұсқасында ғана қолжетімді.</string>
     <string name="Plugins">Плагиндер</string>
     <string name="PluginsEngine">Плагиндер қозғалтқышы</string>
     <string name="EnablePluginsEngine">Плагиндер қозғалтқышын қосу</string>
@@ -504,7 +504,7 @@
     <string name="AreYouSureToLogin">Бұл аккаунтқа басқа құрылғыда кіруге сенімдісіз бе?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Бет бұғатталды</string>
-    <string name="PageBlockedDescription">exteraGram келесі бетті жүктеуді болдырмады:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram келесі бетті жүктеуді болдырмады:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Артқа оралу</string>
     <!-- Other -->
     <string name="SetAsBadge">Белгіше ретінде орнату</string>
@@ -534,7 +534,7 @@
     <string name="EmojiSavedHint">Эмодзи галереяға сақталды.</string>
     <string name="GifGallerySavedHint">GIF галереяға сақталды.</string>
     <string name="MutualContactInfo">Бұл контакт өзара.</string>
-    <string name="LocalPremiumEmojiHint">Сізде **Telegram Premium** жазылымы жоқ, сондықтан бұл эмодзиді тек **exteraGram** пайдаланушылары көре алады.</string>
+    <string name="LocalPremiumEmojiHint">Сізде **Telegram Premium** жазылымы жоқ, сондықтан бұл эмодзиді тек **sleepygram** пайдаланушылары көре алады.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Контакттар қойындысын жасыру</string>
     <string name="ShowContactsTab">Контакттар қойындысын көрсету</string>

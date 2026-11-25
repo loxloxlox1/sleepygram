@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">Налады exteraGram</string>
+    <string name="Preferences">Налады sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">Спасылкі</string>
     <string name="Crowdin">Пераклад</string>
     <string name="Website">Вэб-сайт</string>
     <string name="Categories">Катэгорыі</string>
-    <string name="Developer">**%1$s** з\'яўляецца членам каманды распрацоўшчыкаў **exteraGram**.</string>
-    <string name="DeveloperCompact">Член каманды распрацоўшчыкаў **exteraGram**.</string>
-    <string name="Supporter">**%1$s** падтрымаў распрацоўку **exteraGram** і атрымаў эксклюзіўны значок.</string>
-    <string name="OfficialChannel">**%1$s** — гэта афіцыйны рэсурс **exteraGram**.</string>
+    <string name="Developer">**%1$s** з\'яўляецца членам каманды распрацоўшчыкаў **sleepygram**.</string>
+    <string name="DeveloperCompact">Член каманды распрацоўшчыкаў **sleepygram**.</string>
+    <string name="Supporter">**%1$s** падтрымаў распрацоўку **sleepygram** і атрымаў эксклюзіўны значок.</string>
+    <string name="OfficialChannel">**%1$s** — гэта афіцыйны рэсурс **sleepygram**.</string>
     <string name="NoSuchSetting">Здаецца, што такой налады не існуе.</string>
     <string name="SettingLinkToSavedMessages">Спасылка на наладу адпраўлена ў **Захаванае**.</string>
     <string name="SettingLinkToUser">Спасылка на наладу адпраўлена **%1$s**.</string>
@@ -38,7 +38,7 @@
     <string name="WeatherPill">Надвор\'е</string>
     <string name="WeatherSettingsInfo">Выберыце спосаб вызначэння месцазнаходжання для паказу надвор\'я ў пошуку.</string>
     <string name="WeatherLocation">Вызначэнне месцазнаходжання</string>
-    <string name="WeatherLocationPermissionNo">Для паказу надвор\'я exteraGram патрабуе доступу да вашага месцазнаходжання.</string>
+    <string name="WeatherLocationPermissionNo">Для паказу надвор\'я sleepygram патрабуе доступу да вашага месцазнаходжання.</string>
     <string name="WeatherLocationPermissionGrant">Выдаць дазвол</string>
     <string name="WeatherLocationServicesEnable">Уключыць геалакацыю</string>
     <string name="WeatherPillTopInfo">Налады плашкі надвор\'я для стоса.</string>
@@ -641,7 +641,7 @@
     <string name="PauseOnMinimizeVideo">Відэа</string>
     <string name="PauseOnMinimizeVoice">Галасавыя паведамленні</string>
     <string name="PauseOnMinimizeRound">Відэапаведамленні</string>
-    <string name="PauseOnMinimizeInfo">Прыпыняе прайграванне мультымедыя, калі прылада заблакіравана або exteraGram згорнуты.</string>
+    <string name="PauseOnMinimizeInfo">Прыпыняе прайграванне мультымедыя, калі прылада заблакіравана або sleepygram згорнуты.</string>
     <string name="SwipeToPip">Правядзіце пальцам да PiP</string>
     <string name="UnmuteWithVolumeButtons">Уключэнне гуку відэа кнопкамі гучнасці</string>
     <string name="UnmuteWithVolumeButtonsInfo">Націсканне кнопкі гучнасці ўключыць гук відэа замест змены сістэмнай гучнасці.</string>
@@ -669,8 +669,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Выдаліць уліковы запіс</string>
     <string name="ResetSettings">Скінуць налады</string>
-    <string name="ResetPreferences">**exteraGram** Налады былі скінуты.</string>
-    <string name="ResetPreferencesInfo">Вы ўпэўненыя, што хочаце скінуць **усе** налады exteraGram да значэнняў па змаўчанні?</string>
+    <string name="ResetPreferences">**sleepygram** Налады былі скінуты.</string>
+    <string name="ResetPreferencesInfo">Вы ўпэўненыя, што хочаце скінуць **усе** налады sleepygram да значэнняў па змаўчанні?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Падтрымаць распрацоўку</string>
     <string name="SupportDevelopmentInfo">Падтрымліваючы праект, вы не толькі спрыяеце яго развіццю, але і атрымліваеце ўнікальны значок.</string>
@@ -683,11 +683,11 @@
     <string name="SupporterBadgeReset">Скінуць па змаўчанні</string>
     <string name="SupporterBadgeName">Значок са стрэлкай %1$s</string>
     <string name="SupporterBadgeNameCustom">Значок %1$s</string>
-    <string name="SupporterOtherTitle">**%1$s** падтрымлівае exteraGram</string>
+    <string name="SupporterOtherTitle">**%1$s** падтрымлівае sleepygram</string>
     <string name="SupporterOtherSubtitle">Спонсары атрымліваюць гэтыя бонусы:</string>
     <string name="SupporterHowToGet">Як атрымаць</string>
     <string name="SupporterPerkBadge">Нумарны значок</string>
-    <string name="SupporterPerkBadgeInfo">Значок з вашым унікальным нумарам побач з імем, бачны ўсім карыстальнікам exteraGram.</string>
+    <string name="SupporterPerkBadgeInfo">Значок з вашым унікальным нумарам побач з імем, бачны ўсім карыстальнікам sleepygram.</string>
     <string name="SupporterPerkNowPlaying">Зараз грае</string>
     <string name="SupporterPerkNowPlayingInfo">Адлюстраванне трэка, які вы слухаеце ў Last.fm або stats.fm, непасрэдна ў вашым профілі.</string>
     <string name="SupporterPerkRegDate">Даты рэгістрацыі</string>
@@ -718,10 +718,10 @@
     <string name="BoostyPeopleCount_few">%1$d чалавекі</string>
     <string name="BoostyPeopleCount_many">%1$d чалавек</string>
     <string name="BoostyPeopleCount_other">%1$d чалавек</string>
-    <string name="BoostyInfo">Актыўна падтрымліваюць **exteraGram** на **Boosty**.</string>
+    <string name="BoostyInfo">Актыўна падтрымліваюць **sleepygram** на **Boosty**.</string>
     <string name="BoostyInfo2">Дзякуй за вашу падтрымку!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Усталёўваць плагіны можна толькі ў **Full-версіі exteraGram**.</string>
+    <string name="PluginsNotSupported">Усталёўваць плагіны можна толькі ў **Full-версіі sleepygram**.</string>
     <string name="Plugins">Плагіны</string>
     <string name="PluginsEngine">Рухавік плагінаў</string>
     <string name="EnablePluginsEngine">Уключыць рухавік плагінаў</string>
@@ -742,7 +742,7 @@
     <string name="PluginCatalogChannelNotFound">Канал не знойдзены.</string>
     <string name="PluginCatalogGitRepository">Git-рэпазіторый</string>
     <string name="PluginCatalogGitLoadFailed">Не ўдалося загрузіць рэпазіторый. Праверце спасылку і паспрабуйце зноў.</string>
-    <string name="PluginCatalogGitUnsupported">Для гэтага рэпазіторыя патрабуецца больш новая версія exteraGram.</string>
+    <string name="PluginCatalogGitUnsupported">Для гэтага рэпазіторыя патрабуецца больш новая версія sleepygram.</string>
     <string name="PluginCatalogOpenRepository">Адкрыць рэпазіторый</string>
     <string name="PluginCatalogRepositoryAdded">Рэпазіторый **%1$s** дададзены ў спіс.</string>
     <string name="PluginCatalogRepositoryRemoved">Рэпазіторый **%1$s** выдалены са спіса.</string>
@@ -969,7 +969,7 @@
     <string name="AreYouSureToLogin">Вы ўпэўненыя, што жадаеце ўвайсці ў гэты ўліковы запіс на іншай прыладзе?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Старонка заблакіравана</string>
-    <string name="PageBlockedDescription">exteraGram прадухіліў загрузку наступнай старонкі:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram прадухіліў загрузку наступнай старонкі:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Вярнуцца</string>
     <string name="BlockAds">Блакіраваць рэкламу</string>
     <string name="BlockedRequests_one">%1$d запыт заблакаваны</string>
@@ -1005,7 +1005,7 @@
     <string name="EmojiSavedHint">Эмодзі захавана ў галерэю.</string>
     <string name="GifGallerySavedHint">GIF дададзены ў галерэю.</string>
     <string name="MutualContactInfo">Гэты кантакт узаемны.</string>
-    <string name="LocalPremiumEmojiHint">У вас няма падпіскі **Telegram Premium**, таму гэты эмодзі змогуць убачыць толькі карыстальнікі **exteraGram**.</string>
+    <string name="LocalPremiumEmojiHint">У вас няма падпіскі **Telegram Premium**, таму гэты эмодзі змогуць убачыць толькі карыстальнікі **sleepygram**.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Схаваць укладку «Кантакты»</string>
     <string name="ShowContactsTab">Паказаць укладку «Кантакты»</string>

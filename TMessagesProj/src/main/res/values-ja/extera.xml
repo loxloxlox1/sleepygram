@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram 設定</string>
+    <string name="Preferences">sleepygram 設定</string>
     <!-- Main Menu -->
     <string name="Links">リンク</string>
     <string name="Crowdin">翻訳</string>
     <string name="Website">ウェブサイト</string>
     <string name="Categories">カテゴリ</string>
-    <string name="Developer">**%1$s** は **exteraGram** 開発チームのメンバーです。</string>
-    <string name="DeveloperCompact">**exteraGram** 開発チームのメンバー。</string>
-    <string name="Supporter">**%1$s** は **exteraGram** の開発を支援し、ユニークなバッジを受け取りました。</string>
-    <string name="OfficialChannel">**%1$s** は **exteraGram** の公式リソースです。</string>
+    <string name="Developer">**%1$s** は **sleepygram** 開発チームのメンバーです。</string>
+    <string name="DeveloperCompact">**sleepygram** 開発チームのメンバー。</string>
+    <string name="Supporter">**%1$s** は **sleepygram** の開発を支援し、ユニークなバッジを受け取りました。</string>
+    <string name="OfficialChannel">**%1$s** は **sleepygram** の公式リソースです。</string>
     <string name="NoSuchSetting">そのような設定は存在しないようです。</string>
     <string name="SettingLinkToSavedMessages">**保存済みメッセージ**に送信されるリンクを設定します。</string>
     <string name="SettingLinkToUser">設定リンクが **%1$s** に送信されました。</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">天気</string>
     <string name="WeatherSettingsInfo">検索時の天気表示に使用する位置情報の決定方法を選択します。</string>
     <string name="WeatherLocation">位置情報の検出</string>
-    <string name="WeatherLocationPermissionNo">現在の天気を表示するには、exteraGramが位置情報へのアクセスを必要とします。</string>
+    <string name="WeatherLocationPermissionNo">現在の天気を表示するには、sleepygramが位置情報へのアクセスを必要とします。</string>
     <string name="WeatherLocationPermissionGrant">許可する</string>
     <string name="WeatherLocationServicesEnable">位置情報を有効にする</string>
     <string name="WeatherPillTopInfo">ピルスタック用の天気ウィジェット設定。</string>
@@ -358,7 +358,7 @@
     <string name="PauseOnMinimizeVideo">ビデオ</string>
     <string name="PauseOnMinimizeVoice">音声</string>
     <string name="PauseOnMinimizeRound">ラウンド</string>
-    <string name="PauseOnMinimizeInfo">デバイスがロックされているか、exteraGramが最小化されている場合、メディアの再生を一時停止します。</string>
+    <string name="PauseOnMinimizeInfo">デバイスがロックされているか、sleepygramが最小化されている場合、メディアの再生を一時停止します。</string>
     <string name="SwipeToPip">スワイプしてPiP</string>
     <string name="UnmuteWithVolumeButtons">音量ボタンでビデオのミュートを解除</string>
     <string name="UnmuteWithVolumeButtonsInfo">音量ボタンを押すと、システム音量を変更する代わりにビデオのミュートが解除されます。</string>
@@ -388,8 +388,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">アカウントを削除</string>
     <string name="ResetSettings">設定をリセット</string>
-    <string name="ResetPreferences">**exteraGram** の設定がリセットされました。</string>
-    <string name="ResetPreferencesInfo">**すべての** exteraGram の設定をデフォルトにリセットしてもよろしいですか？</string>
+    <string name="ResetPreferences">**sleepygram** の設定がリセットされました。</string>
+    <string name="ResetPreferencesInfo">**すべての** sleepygram の設定をデフォルトにリセットしてもよろしいですか？</string>
     <!-- Donates -->
     <string name="SupportDevelopment">開発を支援</string>
     <string name="SupportDevelopmentInfo">プロジェクトを支援することで、開発に貢献するだけでなく、ユニークなバッジも入手できます。</string>
@@ -406,10 +406,10 @@
     <string name="BoostyPeopleCount_few">%1$d人</string>
     <string name="BoostyPeopleCount_many">%1$d人</string>
     <string name="BoostyPeopleCount_other">%1$d人</string>
-    <string name="BoostyInfo">**Boosty** で **exteraGram** を積極的にサポートしてください。</string>
+    <string name="BoostyInfo">**Boosty** で **sleepygram** を積極的にサポートしてください。</string>
     <string name="BoostyInfo2">ご支援ありがとうございます！</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">プラグインのインストールは **exteraGram** の **Full** バージョンでのみ利用可能です。</string>
+    <string name="PluginsNotSupported">プラグインのインストールは **sleepygram** の **Full** バージョンでのみ利用可能です。</string>
     <string name="Plugins">プラグイン</string>
     <string name="PluginsEngine">プラグインエンジン</string>
     <string name="EnablePluginsEngine">プラグインエンジンを有効にする</string>
@@ -502,7 +502,7 @@
     <string name="AreYouSureToLogin">別のデバイスでこのアカウントにログインしてもよろしいですか？</string>
     <!-- AdBlock -->
     <string name="PageBlocked">ページがブロックされました</string>
-    <string name="PageBlockedDescription">exteraGramは次のページの読み込みをブロックしました:
+    <string name="PageBlockedDescription">sleepygramは次のページの読み込みをブロックしました:
 **%1$s**</string>
     <string name="PageBlockedGoBack">戻る</string>
     <string name="AdBlockFiltersLoading">フィルターを読み込み中…</string>
@@ -533,7 +533,7 @@
     <string name="EmojiSavedHint">絵文字がギャラリーに保存されました。</string>
     <string name="GifGallerySavedHint">GIFをギャラリーに保存しました。</string>
     <string name="MutualContactInfo">この連絡先は相互です。</string>
-    <string name="LocalPremiumEmojiHint">**Telegram Premium**サブスクリプションをお持ちでないため、この絵文字は**exteraGram**ユーザーのみが表示できます。</string>
+    <string name="LocalPremiumEmojiHint">**Telegram Premium**サブスクリプションをお持ちでないため、この絵文字は**sleepygram**ユーザーのみが表示できます。</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">連絡先タブを非表示</string>
     <string name="ShowContactsTab">連絡先タブを表示</string>

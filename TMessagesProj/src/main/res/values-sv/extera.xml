@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram inställningar</string>
+    <string name="Preferences">sleepygram inställningar</string>
     <!-- Main Menu -->
     <string name="Links">Länkar</string>
     <string name="Crowdin">Översätt</string>
     <string name="Website">Webbplats</string>
     <string name="Categories">Kategorier</string>
-    <string name="Developer">**%1$s** är medlem i **exteraGram**s utvecklingsteam.</string>
-    <string name="DeveloperCompact">Medlem i **exteraGram**s utvecklingsteam.</string>
-    <string name="Supporter">**%1$s** stödde utvecklingen av **exteraGram** och fick ett unikt märke.</string>
-    <string name="OfficialChannel">**%1$s** är den officiella resursen för **exteraGram**.</string>
+    <string name="Developer">**%1$s** är medlem i **sleepygram**s utvecklingsteam.</string>
+    <string name="DeveloperCompact">Medlem i **sleepygram**s utvecklingsteam.</string>
+    <string name="Supporter">**%1$s** stödde utvecklingen av **sleepygram** och fick ett unikt märke.</string>
+    <string name="OfficialChannel">**%1$s** är den officiella resursen för **sleepygram**.</string>
     <string name="NoSuchSetting">Det verkar som att en sådan inställning inte finns.</string>
     <string name="SettingLinkToSavedMessages">Inställningslänk skickad till **Sparade meddelanden**.</string>
     <string name="SettingLinkToUser">Inställningslänk skickad till **%1$s**.</string>
@@ -36,7 +36,7 @@
     <string name="WeatherPill">Väder</string>
     <string name="WeatherSettingsInfo">Välj hur platsen för vädervisningen i sökningen ska bestämmas.</string>
     <string name="WeatherLocation">Platsdetektering</string>
-    <string name="WeatherLocationPermissionNo">exteraGram behöver åtkomst till din plats för att visa aktuellt väder.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram behöver åtkomst till din plats för att visa aktuellt väder.</string>
     <string name="WeatherLocationPermissionGrant">Bevilja behörighet</string>
     <string name="WeatherLocationServicesEnable">Aktivera plats</string>
     <string name="WeatherPillTopInfo">Väderwidgetinställningar för Pillerstack.</string>
@@ -350,7 +350,7 @@
     <string name="PauseOnMinimize">Autopaus</string>
     <string name="PauseOnMinimizeVoice">Röst</string>
     <string name="PauseOnMinimizeRound">Rund</string>
-    <string name="PauseOnMinimizeInfo">Pausar mediauppspelning när enheten låses eller exteraGram minimeras.</string>
+    <string name="PauseOnMinimizeInfo">Pausar mediauppspelning när enheten låses eller sleepygram minimeras.</string>
     <string name="SwipeToPip">Svep för bild-i-bild</string>
     <string name="UnmuteWithVolumeButtons">Ljud på videor med volymknappar</string>
     <string name="UnmuteWithVolumeButtonsInfo">Att trycka på en volymknapp aktiverar ljudet på videon istället för att ändra systemvolymen.</string>
@@ -378,8 +378,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Ta bort konto</string>
     <string name="ResetSettings">Återställ inställningar</string>
-    <string name="ResetPreferences">**exteraGram**-inställningar har återställts.</string>
-    <string name="ResetPreferencesInfo">Är du säker på att du vill återställa **alla** exteraGram-inställningar till standardvärden?</string>
+    <string name="ResetPreferences">**sleepygram**-inställningar har återställts.</string>
+    <string name="ResetPreferencesInfo">Är du säker på att du vill återställa **alla** sleepygram-inställningar till standardvärden?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Stöd utvecklingen</string>
     <string name="SupportDevelopmentInfo">Genom att stödja projektet bidrar du inte bara till dess utveckling utan får också ett unikt märke.</string>
@@ -395,10 +395,10 @@
     <string name="BoostyPeopleCount_few">%1$d personer</string>
     <string name="BoostyPeopleCount_many">%1$d personer</string>
     <string name="BoostyPeopleCount_other">%1$d personer</string>
-    <string name="BoostyInfo">Aktivt stödja **exteraGram** på **Boosty**.</string>
+    <string name="BoostyInfo">Aktivt stödja **sleepygram** på **Boosty**.</string>
     <string name="BoostyInfo2">Tack för ditt stöd!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Plugininstallation är endast tillgänglig i **Full**-versionen av **exteraGram**.</string>
+    <string name="PluginsNotSupported">Plugininstallation är endast tillgänglig i **Full**-versionen av **sleepygram**.</string>
     <string name="Plugins">Plugin</string>
     <string name="PluginsEngine">Pluginmotor</string>
     <string name="EnablePluginsEngine">Aktivera pluginmotor</string>
@@ -487,7 +487,7 @@
     <string name="AreYouSureToLogin">Är du säker på att du vill logga in på detta konto på en annan enhet?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Sida blockerad</string>
-    <string name="PageBlockedDescription">exteraGram har förhindrat att följande sida laddas:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram har förhindrat att följande sida laddas:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Gå tillbaka</string>
     <!-- Other -->
     <string name="SetAsBadge">Ange som märke</string>
@@ -517,7 +517,7 @@
     <string name="EmojiSavedHint">Emoji sparad i galleriet.</string>
     <string name="GifGallerySavedHint">GIF sparad i galleriet.</string>
     <string name="MutualContactInfo">Denna kontakt är ömsesidig.</string>
-    <string name="LocalPremiumEmojiHint">Du har inte ett **Telegram Premium**-abonnemang, så endast **exteraGram**-användare kommer att kunna se denna emoji.</string>
+    <string name="LocalPremiumEmojiHint">Du har inte ett **Telegram Premium**-abonnemang, så endast **sleepygram**-användare kommer att kunna se denna emoji.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Dölj kontakter-flik</string>
     <string name="ShowContactsTab">Visa kontakter-flik</string>

@@ -10,7 +10,7 @@
 
 -->
 <resources>
-    <string name="Preferences">تنظیمات exteraGram</string>
+    <string name="Preferences">تنظیمات sleepygram</string>
     <!-- Main Menu -->
     <string name="Links">لینک‌ ها</string>
     <string name="Crowdin">ترجمه</string>
@@ -396,7 +396,7 @@
     <string name="PauseOnMinimizeVideo">ویدیو</string>
     <string name="PauseOnMinimizeVoice">صدا</string>
     <string name="PauseOnMinimizeRound">گرد</string>
-    <string name="PauseOnMinimizeInfo">پخش رسانه را هنگام قفل شدن دستگاه یا کوچک‌سازی exteraGram متوقف می‌کند.</string>
+    <string name="PauseOnMinimizeInfo">پخش رسانه را هنگام قفل شدن دستگاه یا کوچک‌سازی sleepygram متوقف می‌کند.</string>
     <string name="SwipeToPip">کشیدن به حالت تصویر در تصویر</string>
     <string name="UnmuteWithVolumeButtons">فعال کردن صدای ویدیوها با دکمه‌های صدا</string>
     <string name="UnmuteWithVolumeButtonsInfo">فشار دادن دکمه صدا به جای تغییر صدای سیستم، صدای ویدیو را فعال می‌کند.</string>
@@ -424,8 +424,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">حذف حساب کاربری</string>
     <string name="ResetSettings">بازنشانی تنظیمات</string>
-    <string name="ResetPreferences">تنظیمات **exteraGram** بازنشانی شد.</string>
-    <string name="ResetPreferencesInfo">آیا مطمئنید که می‌خواهید **همه** تنظیمات exteraGram را به پیش‌فرض بازنشانی کنید؟</string>
+    <string name="ResetPreferences">تنظیمات **sleepygram** بازنشانی شد.</string>
+    <string name="ResetPreferencesInfo">آیا مطمئنید که می‌خواهید **همه** تنظیمات sleepygram را به پیش‌فرض بازنشانی کنید؟</string>
     <!-- Donates -->
     <string name="SupportDevelopment">حمایت از توسعه</string>
     <string name="SupportDevelopmentInfo">با حمایت از پروژه، نه تنها به توسعه آن کمک می‌کنید، بلکه نشان منحصر به فردی نیز دریافت می‌کنید.</string>
@@ -442,10 +442,10 @@
     <string name="BoostyPeopleCount_few">%1$d نفر</string>
     <string name="BoostyPeopleCount_many">%1$d نفر</string>
     <string name="BoostyPeopleCount_other">%1$d نفر</string>
-    <string name="BoostyInfo">به طور فعال از **exteraGram** در **Boosty** حمایت کنید.</string>
+    <string name="BoostyInfo">به طور فعال از **sleepygram** در **Boosty** حمایت کنید.</string>
     <string name="BoostyInfo2">از حمایت شما متشکریم!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">نصب افزونه فقط در نسخه **کامل** **exteraGram** در دسترس است.</string>
+    <string name="PluginsNotSupported">نصب افزونه فقط در نسخه **کامل** **sleepygram** در دسترس است.</string>
     <string name="Plugins">افزونه‌ها</string>
     <string name="PluginsEngine">موتور افزونه‌ها</string>
     <string name="EnablePluginsEngine">فعال‌سازی موتور افزونه‌ها</string>
@@ -538,7 +538,7 @@
     <string name="AreYouSureToLogin">آیا مطمئن هستید که می‌خواهید در دستگاه دیگری وارد این حساب شوید؟</string>
     <!-- AdBlock -->
     <string name="PageBlocked">صفحه مسدود شده است</string>
-    <string name="PageBlockedDescription">exteraGram از بارگذاری صفحه زیر جلوگیری کرد:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram از بارگذاری صفحه زیر جلوگیری کرد:\n**%1$s**</string>
     <string name="PageBlockedGoBack">بازگشت</string>
     <string name="BlockAds">مسدود کردن تبلیغات</string>
     <!-- Other -->
@@ -569,7 +569,7 @@
     <string name="EmojiSavedHint">ایموجی در گالری ذخیره شد.</string>
     <string name="GifGallerySavedHint">GIF در گالری ذخیره شد.</string>
     <string name="MutualContactInfo">این تماس متقابل است.</string>
-    <string name="LocalPremiumEmojiHint">شما اشتراک **Telegram Premium** ندارید، بنابراین فقط کاربران **exteraGram** قادر به دیدن این ایموجی خواهند بود.</string>
+    <string name="LocalPremiumEmojiHint">شما اشتراک **Telegram Premium** ندارید، بنابراین فقط کاربران **sleepygram** قادر به دیدن این ایموجی خواهند بود.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">پنهان‌سازی برگه مخاطبین</string>
     <string name="ShowContactsTab">نمایش برگه مخاطبین</string>

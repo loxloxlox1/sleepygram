@@ -10,7 +10,7 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram tənzimləmələri</string>
+    <string name="Preferences">sleepygram tənzimləmələri</string>
     <!-- Main Menu -->
     <string name="Links">Bağlantılar</string>
     <string name="Crowdin">Tərcümə</string>
@@ -138,8 +138,8 @@
     <string name="CopyID">İstifadəçi ID-sini kopyala</string>
     <!-- Other -->
     <string name="RestartRequired">Effektiv olmaq üçün Tətbiqi yenidən başladın.</string>
-    <string name="ResetPreferences">**exteraGram** tənzimləmələri sıfırlandı.</string>
-    <string name="ResetPreferencesInfo">**bütün** exteraGram tənzimləmələrini defolt olaraq sıfırlamaq istədiyinizə əminsiniz?</string>
+    <string name="ResetPreferences">**sleepygram** tənzimləmələri sıfırlandı.</string>
+    <string name="ResetPreferencesInfo">**bütün** sleepygram tənzimləmələrini defolt olaraq sıfırlamaq istədiyinizə əminsiniz?</string>
     <string name="UserNotFound">Bu **ID** ilə istifadəçi tapılmadı.</string>
     <string name="PhotoCopied">Foto buferə kopyalandı.</string>
     <string name="MutualContactInfo">Bu əlaqə qarşılıqlıdır.</string>

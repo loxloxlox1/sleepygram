@@ -10,16 +10,16 @@
 
 -->
 <resources>
-    <string name="Preferences">exteraGram Asetukset</string>
+    <string name="Preferences">sleepygram Asetukset</string>
     <!-- Main Menu -->
-    <string name="Links">exteraGram-asetukset</string>
+    <string name="Links">sleepygram-asetukset</string>
     <string name="Crowdin">Käännä</string>
     <string name="Website">Verkkosivusto</string>
     <string name="Categories">Kategoriat</string>
-    <string name="Developer">**%1$s** on **exteraGramin** kehitystiimin jäsen.</string>
-    <string name="DeveloperCompact">**exteraGramin** kehitystiimin jäsen.</string>
-    <string name="Supporter">**%1$s** on tukenut **exteraGramin** kehitystä ja saanut ainutlaatuisen merkin.	</string>
-    <string name="OfficialChannel">**%1$s** on **exteraGramin** virallinen resurssi.</string>
+    <string name="Developer">**%1$s** on **sleepygramin** kehitystiimin jäsen.</string>
+    <string name="DeveloperCompact">**sleepygramin** kehitystiimin jäsen.</string>
+    <string name="Supporter">**%1$s** on tukenut **sleepygramin** kehitystä ja saanut ainutlaatuisen merkin.	</string>
+    <string name="OfficialChannel">**%1$s** on **sleepygramin** virallinen resurssi.</string>
     <string name="NoSuchSetting">Näyttää siltä, ettei tällaista asetusta ole olemassa.</string>
     <string name="SettingLinkToSavedMessages">Asetuslinkki lähetetty **Tallennettuihin viesteihin**.</string>
     <string name="SettingLinkToUser">Asetuslinkki lähetetty käyttäjälle **%1$s**.</string>
@@ -37,7 +37,7 @@
     <string name="WeatherPill">Sää</string>
     <string name="WeatherSettingsInfo">Valitse, miten haun säänäytön sijainti määritetään.</string>
     <string name="WeatherLocation">Sijainnin tunnistus</string>
-    <string name="WeatherLocationPermissionNo">exteraGram tarvitsee sijaintitietosi näyttääkseen nykyisen sään.</string>
+    <string name="WeatherLocationPermissionNo">sleepygram tarvitsee sijaintitietosi näyttääkseen nykyisen sään.</string>
     <string name="WeatherLocationPermissionGrant">Myönnä lupa</string>
     <string name="WeatherLocationServicesEnable">Ota sijainti käyttöön</string>
     <string name="WeatherPillTopInfo">Sää-widgetin asetukset tunnistepinoa varten.</string>
@@ -357,7 +357,7 @@
     <string name="PauseOnMinimize">Automaattinen keskeytys</string>
     <string name="PauseOnMinimizeVoice">Ääni</string>
     <string name="PauseOnMinimizeRound">Pyöreä</string>
-    <string name="PauseOnMinimizeInfo">Keskeyttää median toiston, kun laite lukitaan tai exteraGram pienennetään.</string>
+    <string name="PauseOnMinimizeInfo">Keskeyttää median toiston, kun laite lukitaan tai sleepygram pienennetään.</string>
     <string name="SwipeToPip">Pyyhkäise PiP-tilaan</string>
     <string name="UnmuteWithVolumeButtons">Poista videoista äänenvaiennus äänenvoimakkuuspainikkeilla</string>
     <string name="UnmuteWithVolumeButtonsInfo">Äänenvoimakkuuspainikkeen painaminen poistaa videon äänenvaiennus tilan, eikä muuta järjestelmän äänenvoimakkuutta.</string>
@@ -385,8 +385,8 @@
     <!-- Settings Management -->
     <string name="DeleteAccount">Poista tili</string>
     <string name="ResetSettings">Nollaa asetukset</string>
-    <string name="ResetPreferences">**exteraGram**-asetukset on nollattu.</string>
-    <string name="ResetPreferencesInfo">Oletko varma, että haluat nollata **kaikki** exteraGram-asetukset oletusarvoihinsa?</string>
+    <string name="ResetPreferences">**sleepygram**-asetukset on nollattu.</string>
+    <string name="ResetPreferencesInfo">Oletko varma, että haluat nollata **kaikki** sleepygram-asetukset oletusarvoihinsa?</string>
     <!-- Donates -->
     <string name="SupportDevelopment">Tue kehitystä</string>
     <string name="SupportDevelopmentInfo">Tukemalla projektia et vain edistä sen kehitystä, vaan saat myös ainutlaatuisen merkin.</string>
@@ -403,10 +403,10 @@
     <string name="BoostyPeopleCount_few">%1$d henkilöä</string>
     <string name="BoostyPeopleCount_many">%1$d henkilöä</string>
     <string name="BoostyPeopleCount_other">%1$d henkilöä</string>
-    <string name="BoostyInfo">Tue aktiivisesti **exteraGramia** **Boosty**-alustalla.</string>
+    <string name="BoostyInfo">Tue aktiivisesti **sleepygramia** **Boosty**-alustalla.</string>
     <string name="BoostyInfo2">Kiitos tuestasi!</string>
     <!-- Plugins -->
-    <string name="PluginsNotSupported">Laajennusten asennus on mahdollista vain **Full**-versiossa **exteraGram**.</string>
+    <string name="PluginsNotSupported">Laajennusten asennus on mahdollista vain **Full**-versiossa **sleepygram**.</string>
     <string name="Plugins">Laajennukset</string>
     <string name="PluginsEngine">Laajennusmoottori</string>
     <string name="EnablePluginsEngine">Ota laajennusmoottori käyttöön</string>
@@ -499,7 +499,7 @@
     <string name="AreYouSureToLogin">Oletko varma, että haluat kirjautua tälle tilille toisella laitteella?</string>
     <!-- AdBlock -->
     <string name="PageBlocked">Sivu estetty</string>
-    <string name="PageBlockedDescription">exteraGram esti seuraavan sivun latauksen:\n**%1$s**</string>
+    <string name="PageBlockedDescription">sleepygram esti seuraavan sivun latauksen:\n**%1$s**</string>
     <string name="PageBlockedGoBack">Palaa takaisin</string>
     <!-- Other -->
     <string name="SetAsBadge">Aseta merkiksi</string>
@@ -529,7 +529,7 @@
     <string name="EmojiSavedHint">Emoji tallennettu galleriaan.</string>
     <string name="GifGallerySavedHint">GIF tallennettu galleriaan.</string>
     <string name="MutualContactInfo">Tämä yhteystieto on molemminpuolinen.</string>
-    <string name="LocalPremiumEmojiHint">Sinulla ei ole **Telegram Premium** -tilausta, joten vain **exteraGram**-käyttäjät näkevät tämän emojin.</string>
+    <string name="LocalPremiumEmojiHint">Sinulla ei ole **Telegram Premium** -tilausta, joten vain **sleepygram**-käyttäjät näkevät tämän emojin.</string>
     <!-- Main Tabs -->
     <string name="HideContactsTab">Piilota yhteystietovälilehti</string>
     <string name="ShowContactsTab">Näytä yhteystietovälilehti</string>
